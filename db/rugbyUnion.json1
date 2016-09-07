@@ -1,0 +1,1397 @@
+{
+  "results": [
+    {
+      "title": "Rugby Union",
+      "type": "IDX",
+      "lastUpdated": "2016-08-20T22:46:52+00:00",
+      "firstCreated": "2011-01-10T12:52:44+00:00",
+      "firstPublished": "2011-12-12T12:39:22+00:00",
+      "lastPublished": "2016-08-21T01:06:05+00:00",
+      "changeQueueId": "284725564",
+      "changeQueueTimestamp": "2016-08-21T01:05:40+00:00",
+      "groups": [
+        {
+          "type": "type-a-container-structural-3",
+          "title": "STRUCTURAL CONTAINER",
+          "groups": [
+            {
+              "type": "type-a-container-structural-4",
+              "title": "Top stories",
+              "groups": [
+                {
+                  "type": "type-a-container-primary-4",
+                  "title": "Standard news promotion",
+                  "groups": [
+                    {
+                      "type": "type-a-top-story-1",
+                      "title": "Standard Top Lead - importers for BBC homepage",
+                      "maxRelatedLinks": 0,
+                      "items": [
+                        {
+                          "assetId": "37141870",
+                          "assetUri": "/sport/rugby-union/37141870",
+                          "firstCreated": "2016-08-20T13:38:51+00:00",
+                          "hasShortForm": true,
+                          "headline": "All Blacks thrash Wallabies in Sydney",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-20T13:38:51+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90859670": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/1E0F/production/_90859670_all_blacks2.jpg",
+                                  "altText": "All Blacks celebrate Ryan Crotty's try",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "prominence": "slideshow",
+                          "section": {
+                            "name": "Rugby Union",
+                            "id": "100848",
+                            "uri": "/sport/rugby-union",
+                            "urlIdentifier": "/sport/rugby-union"
+                          },
+                          "summary": "New Zealand open the 2016 Rugby Championship by humiliating Australia 42-8 in the Bledisloe Cup in Sydney.",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "Standard top story"
+                    },
+                    {
+                      "type": "type-a-container-story-pair-1",
+                      "title": "Secondary news promotion",
+                      "groups": [
+                        {
+                          "type": "type-a-story-1",
+                          "title": "Story/Live/Feature 2 - importers for BBC homepage",
+                          "maxRelatedLinks": 0,
+                          "items": [
+                            {
+                              "assetId": "37137843",
+                              "assetUri": "/news/world-australia-37137843",
+                              "firstCreated": "2016-08-19T23:48:49+00:00",
+                              "hasShortForm": true,
+                              "headline": "All Blacks hotel room in Sydney 'bugged'",
+                              "language": "en-gb",
+                              "lastUpdated": "2016-08-20T09:48:18+00:00",
+                              "media": {
+                                "images": {
+                                  "index": {
+                                    "90858048": {
+                                      "height": 1152,
+                                      "width": 2048,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/14875/production/_90858048_bledisloecup_getty_index.jpg",
+                                      "altText": "Bledisloe Cup Australia v New Zealand",
+                                      "copyrightHolder": "Getty Images"
+                                    }
+                                  },
+                                  "index-thumbnail": {
+                                    "77623465": {
+                                      "height": 171,
+                                      "width": 304,
+                                      "originCode": "mcs",
+                                      "href": "http://news.bbcimg.co.uk/media/images/77623000/png/_77623465_breaking_image_large-3.png",
+                                      "caption": "Breaking News image",
+                                      "altText": "Breaking News image",
+                                      "copyrightHolder": "BBC"
+                                    }
+                                  }
+                                }
+                              },
+                              "options": {
+                                "isBreakingNews": true
+                              },
+                              "overtypedHeadline": "All Blacks' hotel room in Sydney 'bugged' before Australia Test",
+                              "section": {
+                                "name": "Australia",
+                                "id": "102293",
+                                "uri": "/news/world/australia",
+                                "urlIdentifier": "/sport/world/australia"
+                              },
+                              "site": {
+                                "name": "BBC News",
+                                "code": "news-v6",
+                                "urlIdentifier": "/news"
+                              },
+                              "summary": "New Zealand Rugby says a hotel room where the All Blacks held meetings in Sydney was bugged before Saturday's match against Australia.",
+                              "type": "STY"
+                            }
+                          ],
+                          "semanticGroupName": "Story 2"
+                        },
+                        {
+                          "type": "type-a-story-1",
+                          "title": "Story/Live/Feature 3- importers for BBC homepage",
+                          "maxRelatedLinks": 0,
+                          "items": [
+                            {
+                              "assetId": "37132027",
+                              "assetUri": "/sport/rugby-union/37132027",
+                              "firstCreated": "2016-08-19T11:05:14+00:00",
+                              "hasShortForm": true,
+                              "headline": "Rennie to replace Townsend at Glasgow",
+                              "language": "en-gb",
+                              "lastUpdated": "2016-08-19T11:05:14+00:00",
+                              "media": {
+                                "images": {
+                                  "index": {
+                                    "90845730": {
+                                      "height": 1152,
+                                      "width": 2048,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/0EAA/production/_90845730_gettyimages-576538208.jpg",
+                                      "altText": "Chiefs coach Dave Rennie",
+                                      "copyrightHolder": "Getty Images"
+                                    }
+                                  }
+                                }
+                              },
+                              "options": {
+                                "isBreakingNews": false
+                              },
+                              "section": {
+                                "name": "Glasgow",
+                                "id": "101655",
+                                "externalUrl": "/sport/rugby-union/teams/glasgow",
+                                "urlIdentifier": "/sport/rugby-union/celtic-league/glasgow"
+                              },
+                              "summary": "New Zealander Dave Rennie will take over from Gregor Townsend as Glasgow Warriors' head coach next summer, Scottish Rugby.",
+                              "type": "STY"
+                            }
+                          ],
+                          "semanticGroupName": "Story 3"
+                        }
+                      ],
+                      "semanticGroupName": "Secondary news promotion"
+                    }
+                  ],
+                  "semanticGroupName": "Standard news promotion"
+                },
+                {
+                  "type": "type-a-container-secondary-1",
+                  "title": "More news",
+                  "groups": [
+                    {
+                      "type": "type-a-headline-list-1",
+                      "title": "Headlines - importers for BBC homepage",
+                      "items": [
+                        {
+                          "assetId": "37129747",
+                          "assetUri": "/sport/rugby-union/37129747",
+                          "byline": {
+                            "name": "By Chris Jones",
+                            "persons": [
+                              {
+                                "name": "Chris Jones",
+                                "function": "BBC Radio 5 live rugby reporter",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Radio 5 live rugby reporter"
+                          },
+                          "firstCreated": "2016-08-19T11:00:44+00:00",
+                          "hasShortForm": true,
+                          "headline": "Picamoles better for playing in England",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-19T11:00:44+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90846001": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/2750/production/_90846001_picamoles.jpg",
+                                  "altText": "Louis Picamoles",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              },
+                              "index-thumbnail": {
+                                "57762847": {
+                                  "height": 81,
+                                  "width": 144,
+                                  "originCode": "mcs",
+                                  "href": "http://news.bbcimg.co.uk/media/images/57762000/jpg/_57762847_41435767.jpg",
+                                  "altText": "Northampton",
+                                  "copyrightHolder": "Not Specified"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "N'hampton",
+                            "id": "101670",
+                            "externalUrl": "/sport/rugby-union/teams/northampton/",
+                            "urlIdentifier": "/sport/rugby-union/premiership/northampton"
+                          },
+                          "summary": "Northampton Saints' Louis Picamoles says the style of play in the Premiership will make him a better player.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37099208",
+                          "assetUri": "/sport/rugby-union/37099208",
+                          "firstCreated": "2016-08-16T17:51:01+00:00",
+                          "hasShortForm": true,
+                          "headline": "Tipuric returns after five-month break",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-19T19:10:10+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90811296": {
+                                  "height": 549,
+                                  "width": 976,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/10E5B/production/_90811296_tipblue.jpg",
+                                  "altText": "Justin Tipuric receives treatment after being injured playing for Wales against Italy",
+                                  "copyrightHolder": "Huw Evans picture agency"
+                                }
+                              },
+                              "index-thumbnail": {
+                                "57762920": {
+                                  "height": 81,
+                                  "width": 144,
+                                  "originCode": "mcs",
+                                  "href": "http://news.bbcimg.co.uk/media/images/57762000/jpg/_57762920_44093300.jpg",
+                                  "altText": "Ospreys",
+                                  "copyrightHolder": "bbc"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "overtypedHeadline": "Wales flanker Tipuric back after five months out injured",
+                          "section": {
+                            "name": "Ospreys",
+                            "id": "101661",
+                            "externalUrl": "/sport/rugby-union/teams/ospreys/",
+                            "urlIdentifier": "/sport/rugby-union/celtic-league/ospreys"
+                          },
+                          "summary": "Wales flanker Justin Tipuric plays 40 minutes in his first game for five months after concussion as Ospreys beat Belgium 71-0 in a pre-season friendly.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37128384",
+                          "assetUri": "/sport/rugby-union/37128384",
+                          "byline": {
+                            "name": "By Tom English",
+                            "persons": [
+                              {
+                                "name": "Tom English",
+                                "correspondentId": "tomenglish",
+                                "url": "/sport/correspondents/tomenglish",
+                                "function": "BBC Scotland",
+                                "thumbnail": "http://news.bbcimg.co.uk/media/images/76507000/jpg/_76507196_photo3.jpg",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Scotland"
+                          },
+                          "firstCreated": "2016-08-19T08:08:37+00:00",
+                          "headline": "Scotland's pro clubs open to investment",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-19T08:08:37+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90843126": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/F2B6/production/_90843126_10617956.jpg",
+                                  "altText": "Mark Dodson, Scottish Rugby's chief executive",
+                                  "copyrightHolder": "SNS"
+                                }
+                              },
+                              "index-thumbnail": {
+                                "90843896": {
+                                  "height": 180,
+                                  "width": 320,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/110CA/production/_90843896_10617956.jpg",
+                                  "altText": "Mark Dodson, Scottish Rugby's chief executive",
+                                  "copyrightHolder": "SNS"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Scottish Rugby",
+                            "id": "101370",
+                            "uri": "/sport/rugby-union/scottish",
+                            "urlIdentifier": "/sport/rugby-union/scottish"
+                          },
+                          "summary": "Scottish Rugby would welcome private investment in its two professional clubs - but only if the price is right.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37107915",
+                          "assetUri": "/sport/rugby-union/37107915",
+                          "firstCreated": "2016-08-18T08:25:37+00:00",
+                          "hasShortForm": true,
+                          "headline": "May targets return after injury 'hell'",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-18T08:25:37+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90825681": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/48DC/production/_90825681_gettyimages-487286240.jpg",
+                                  "altText": "Jonny May",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              },
+                              "index-thumbnail": {
+                                "57762495": {
+                                  "height": 81,
+                                  "width": 144,
+                                  "originCode": "mcs",
+                                  "href": "http://news.bbcimg.co.uk/media/images/57762000/jpg/_57762495_41435821.jpg",
+                                  "altText": "Gloucester",
+                                  "copyrightHolder": "Not Specified"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "overtypedHeadline": "England wing May eyes October return after injury 'hell'",
+                          "section": {
+                            "name": "Gloucester",
+                            "id": "101674",
+                            "externalUrl": "/sport/rugby-union/teams/gloucester",
+                            "urlIdentifier": "/sport/rugby-union/premiership/gloucester"
+                          },
+                          "summary": "England and Gloucester winger Jonny May says his injury lay-off has been \"hell\" but hopes to return to action in October.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37107060",
+                          "assetUri": "/sport/rugby-union/37107060",
+                          "byline": {
+                            "name": "By Andy Burke",
+                            "persons": [
+                              {
+                                "name": "Andy Burke",
+                                "function": "BBC Scotland",
+                                "thumbnail": "http://news.bbcimg.co.uk/media/images/62884000/jpg/_62884679_andy_burke.jpg",
+                                "twitterName": "http://twitter.com/#!/AndyBurkeBBC",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Scotland"
+                          },
+                          "firstCreated": "2016-08-17T17:47:14+00:00",
+                          "hasShortForm": true,
+                          "headline": "'Scottish Rugby had to keep Townsend'",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-18T08:49:46+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90830442": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/5F53/production/_90830442_townsend.jpg",
+                                  "caption": "Gregor Townsend",
+                                  "altText": "Gregor Townsend",
+                                  "copyrightHolder": "SNS Group / SRU Bill Murray"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "overtypedHeadline": "Scottish Rugby had to keep Townsend - Lawson",
+                          "section": {
+                            "name": "Scottish Rugby",
+                            "id": "101370",
+                            "uri": "/sport/rugby-union/scottish",
+                            "urlIdentifier": "/sport/rugby-union/scottish"
+                          },
+                          "summary": "The risk of losing Gregor Townsend may have influenced the SRU's decision to name him as new Scotland coach, says Rory Lawson.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37114968",
+                          "assetUri": "/sport/rugby-union/37114968",
+                          "byline": {
+                            "name": "By Tom English",
+                            "persons": [
+                              {
+                                "name": "Tom English",
+                                "correspondentId": "tomenglish",
+                                "url": "/sport/correspondents/tomenglish",
+                                "function": "BBC Scotland",
+                                "thumbnail": "http://news.bbcimg.co.uk/media/images/76507000/jpg/_76507196_photo3.jpg",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Scotland"
+                          },
+                          "firstCreated": "2016-08-18T08:45:21+00:00",
+                          "headline": "Townsend faces whole new challenge",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-18T08:45:21+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90830714": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/A2E7/production/_90830714_11648516.jpg",
+                                  "altText": "Glasgow Warriors head coach Gregor Townsend",
+                                  "copyrightHolder": "SNS"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "overtypedHeadline": "'Nightmare scenario avoided but Townsend has a job on his hands'",
+                          "section": {
+                            "name": "Scottish Rugby",
+                            "id": "101370",
+                            "uri": "/sport/rugby-union/scottish",
+                            "urlIdentifier": "/sport/rugby-union/scottish"
+                          },
+                          "summary": "Gregor Townsend's record at Glasgow means he warrants the Scotland job - but he must face some wily opponents.",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "More news headlines"
+                    }
+                  ],
+                  "semanticGroupName": "More news"
+                }
+              ],
+              "semanticGroupName": "Top stories"
+            },
+            {
+              "type": "type-a-container-secondary-2",
+              "title": "AV/comments",
+              "groups": [
+                {
+                  "type": "type-a-container-digest-1",
+                  "title": "Section digest",
+                  "strapline": {
+                    "name": "Team by Team"
+                  },
+                  "groups": [
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 1",
+                      "strapline": {
+                        "name": "BATH",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/bath",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/bath"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:18:23+00:00",
+                          "lastUpdated": "2013-03-20T20:18:23+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/bath",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/bath"
+                          },
+                          "options": {},
+                          "title": "Latest Bath news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 1"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 2",
+                      "strapline": {
+                        "name": "CARDIFF BLUES",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/cardiff-blues",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/cardiff-blues"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:18:52+00:00",
+                          "lastUpdated": "2013-03-20T20:18:52+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/cardiff-blues",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/cardiff-blues"
+                          },
+                          "options": {},
+                          "title": "Latest Cardiff Blues news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 2"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 3",
+                      "strapline": {
+                        "name": "CONNACHT",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/connacht",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/connacht"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:19:31+00:00",
+                          "lastUpdated": "2013-03-20T20:19:31+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/connacht",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/connacht"
+                          },
+                          "options": {},
+                          "title": "Latest Connacht news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 3"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 4",
+                      "strapline": {
+                        "name": "EDINBURGH",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/edinburgh",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/edinburgh"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:20:35+00:00",
+                          "lastUpdated": "2013-07-26T08:21:20+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/edinburgh",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/edinburgh"
+                          },
+                          "options": {},
+                          "title": "Latest Edinburgh news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 4"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 5",
+                      "strapline": {
+                        "name": "EXETER",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/exeter",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/exeter"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-07-26T08:23:07+00:00",
+                          "lastUpdated": "2013-07-26T08:24:06+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/exeter",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/exeter"
+                          },
+                          "options": {},
+                          "title": "Latest Exeter news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 5"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 6",
+                      "strapline": {
+                        "name": "GLASGOW",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/glasgow",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/glasgow"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:21:35+00:00",
+                          "lastUpdated": "2013-03-20T20:21:35+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/glasgow",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/glasgow"
+                          },
+                          "options": {},
+                          "title": "Latest Glasgow news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 6"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 7",
+                      "strapline": {
+                        "name": "GLOUCESTER",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/gloucester",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/gloucester"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:21:09+00:00",
+                          "lastUpdated": "2013-03-20T20:21:09+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/gloucester",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/gloucester"
+                          },
+                          "options": {},
+                          "title": "Latest Gloucester news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 7"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 8",
+                      "strapline": {
+                        "name": "HARLEQUINS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/harlequins",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/harlequins"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:22:05+00:00",
+                          "lastUpdated": "2013-03-20T20:22:05+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/harlequins",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/harlequins"
+                          },
+                          "options": {},
+                          "title": "Latest Harlequins news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 8"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 9",
+                      "strapline": {
+                        "name": "LEICESTER",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/leicester",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/leicester"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:42:45+00:00",
+                          "lastUpdated": "2013-03-20T20:42:45+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/leicester",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/leicester"
+                          },
+                          "options": {},
+                          "title": "Latest Leicester news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 9"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 10",
+                      "strapline": {
+                        "name": "LEINSTER",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/leinster",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/leinster"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:43:23+00:00",
+                          "lastUpdated": "2013-03-20T20:43:23+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/leinster",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/leinster"
+                          },
+                          "options": {},
+                          "title": "Latest Leinster news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 10"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 11",
+                      "strapline": {
+                        "name": "LONDON IRISH",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/london-irish",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/london-irish"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:43:47+00:00",
+                          "lastUpdated": "2013-03-20T20:43:47+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/london-irish",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/london-irish"
+                          },
+                          "options": {},
+                          "title": "Latest London Irish news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 11"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 12",
+                      "strapline": {
+                        "name": "MUNSTER",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/munster",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/munster"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:45:03+00:00",
+                          "lastUpdated": "2013-03-20T20:45:03+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/munster",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/munster"
+                          },
+                          "options": {},
+                          "title": "Latest Munster news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 12"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 14",
+                      "strapline": {
+                        "name": "NEWCASTLE",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/newcastle",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/newcastle"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:44:34+00:00",
+                          "lastUpdated": "2013-08-09T16:09:20+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/newcastle",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/newcastle"
+                          },
+                          "options": {},
+                          "title": "Latest Newcastle news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 14"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 13",
+                      "strapline": {
+                        "name": "NG DRAGONS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/ng-dragons",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/ng-dragons"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:45:31+00:00",
+                          "lastUpdated": "2013-03-20T20:45:31+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/ng-dragons",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/ng-dragons"
+                          },
+                          "options": {},
+                          "title": "Latest NG Dragons news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 13"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 15",
+                      "strapline": {
+                        "name": "NORTHAMPTON",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/northampton",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/northampton"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:46:00+00:00",
+                          "lastUpdated": "2013-03-20T20:46:00+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/northampton",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/northampton"
+                          },
+                          "options": {},
+                          "title": "Latest Northampton news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 15"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 16",
+                      "strapline": {
+                        "name": "OSPREYS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/ospreys",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/ospreys"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:48:12+00:00",
+                          "lastUpdated": "2013-03-20T20:48:12+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/ospreys",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/ospreys"
+                          },
+                          "options": {},
+                          "title": "Latest Ospreys news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 16"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 17",
+                      "strapline": {
+                        "name": "SALE",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/sale",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/sale"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:48:46+00:00",
+                          "lastUpdated": "2013-03-20T20:48:46+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/sale",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/sale"
+                          },
+                          "options": {},
+                          "title": "Latest Sale news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 17"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 18",
+                      "strapline": {
+                        "name": "SARACENS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/saracens",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/saracens"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:49:10+00:00",
+                          "lastUpdated": "2013-03-20T20:49:10+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/saracens",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/saracens"
+                          },
+                          "options": {},
+                          "title": "Latest Saracens news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 18"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 19",
+                      "strapline": {
+                        "name": "SCARLETS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/scarlets",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/scarlets"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:49:43+00:00",
+                          "lastUpdated": "2013-03-20T20:49:43+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/scarlets",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/scarlets"
+                          },
+                          "options": {},
+                          "title": "Latest Scarlets news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 19"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 20",
+                      "strapline": {
+                        "name": "ULSTER",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/ulster",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/ulster"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:50:14+00:00",
+                          "lastUpdated": "2013-03-20T20:50:14+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/ulster",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/ulster"
+                          },
+                          "options": {},
+                          "title": "Latest Ulster news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 20"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 21",
+                      "strapline": {
+                        "name": "WASPS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/wasps",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/wasps"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:44:13+00:00",
+                          "lastUpdated": "2013-03-20T20:44:13+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/wasps",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/wasps"
+                          },
+                          "options": {},
+                          "title": "Latest Wasps news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 21"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 22",
+                      "strapline": {
+                        "name": "WORCESTER",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/worcester",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/worcester"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-20T20:50:43+00:00",
+                          "lastUpdated": "2013-03-20T20:50:43+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-union/teams/worcester",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-union/teams/worcester"
+                          },
+                          "options": {},
+                          "title": "Latest Worcester news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 22"
+                    }
+                  ],
+                  "semanticGroupName": "Section digest"
+                }
+              ],
+              "semanticGroupName": "AV/comments"
+            },
+            {
+              "type": "type-a-container-secondary-1",
+              "title": "River",
+              "groups": [
+                {
+                  "type": "type-a-hyperpuff-1",
+                  "title": "Nations links hyper",
+                  "items": [
+                    {
+                      "assetId": "16143516",
+                      "assetUri": "/sport/rugby-union/16143516",
+                      "firstCreated": "2011-12-12T13:25:45+00:00",
+                      "headline": "Nations links hyper - rugby union",
+                      "language": "en-gb",
+                      "lastUpdated": "2012-12-10T16:09:15+00:00",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "overtypedHeadline": "Rugby Union Nations links hyper with map",
+                      "type": "HYP"
+                    }
+                  ],
+                  "semanticGroupName": "Nations links hyper"
+                },
+                {
+                  "type": "type-a-hyperpuff-1",
+                  "title": "Programme links hyper",
+                  "strapline": {
+                    "name": "Programmes"
+                  },
+                  "items": [
+                    {
+                      "assetId": "16144661",
+                      "assetUri": "/sport/rugby-union/16144661",
+                      "firstCreated": "2011-12-12T15:28:36+00:00",
+                      "headline": "Programme links hyper - rugby union",
+                      "language": "en-gb",
+                      "lastUpdated": "2013-07-08T07:45:48+00:00",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "overtypedHeadline": "Rugby Union Programme links hyper ",
+                      "type": "HYP"
+                    }
+                  ],
+                  "semanticGroupName": "Programme links hyper"
+                },
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "BBC Podcasts include",
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/inc/specials/sport/hi/sport/downloads/rugby-union/podcast-downloads.inc",
+                        "highweb": "/inc/specials/sport/hi/sport/downloads/rugby-union/podcast-downloads.inc"
+                      },
+                      "options": {},
+                      "title": "BBC Rugby Union Podcasts",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "Downloads include"
+                },
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "BBC RSS feeds include",
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/inc/specials/sport/hi/sport/rss/rugby-union/rss.inc",
+                        "highweb": "/inc/specials/sport/hi/sport/rss/rugby-union/rss.inc"
+                      },
+                      "options": {},
+                      "title": "BBC Rugby Union RSS feeds",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "RSS feeds include"
+                }
+              ],
+              "semanticGroupName": "River"
+            }
+          ],
+          "semanticGroupName": "STRUCTURAL CONTAINER"
+        },
+        {
+          "type": "type-a-container-tertiary-1",
+          "title": "Events",
+          "groups": [
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Rugby Union Scores hyper",
+              "items": [
+                {
+                  "assetId": "22384322",
+                  "assetUri": "/sport/rugby-union/22384322",
+                  "firstCreated": "2013-05-02T11:25:59+00:00",
+                  "headline": "Postbox promo hyper - World Cup 2015",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-11-02T15:42:32+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Event stats hyper"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Radio Commentaries hyper",
+              "items": [
+                {
+                  "assetId": "16674235",
+                  "assetUri": "/sport/rugby-union/16674235",
+                  "firstCreated": "2012-01-22T18:35:01+00:00",
+                  "headline": "RU BBC national and local radio / TV comms hyper",
+                  "language": "en-gb",
+                  "lastUpdated": "2016-01-11T11:22:28+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Radio coverage hyper"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Special promo hyper 1",
+              "items": [
+                {
+                  "assetId": "16149195",
+                  "assetUri": "/sport/rugby-union/16149195",
+                  "firstCreated": "2011-12-12T17:26:29+00:00",
+                  "headline": "Rugby desktop scores hyperpuff",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-11-03T13:09:46+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "overtypedHeadline": "Rugby Union Scores, Results, Fixtures hyper",
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Special promotion hyper 1"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Special promo hyper 2",
+              "items": [
+                {
+                  "assetId": "29220307",
+                  "assetUri": "/sport/football/29220307",
+                  "firstCreated": "2014-09-16T10:09:32+00:00",
+                  "headline": "BBC Sport onward journey from stories",
+                  "language": "en-gb",
+                  "lastUpdated": "2014-10-21T11:37:47+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Special promotion hyper 2"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Special promo hyper 3",
+              "items": [
+                {
+                  "assetId": "23402273",
+                  "assetUri": "/sport/get-inspired/23402273",
+                  "firstCreated": "2013-07-22T06:25:19+00:00",
+                  "headline": "Get Inspired hyper",
+                  "language": "en-gb",
+                  "lastUpdated": "2013-09-25T08:43:13+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Special promotion hyper 3"
+            },
+            {
+              "type": "type-a-data-feed-1",
+              "title": "BBC coverage include",
+              "items": [
+                {
+                  "links": {
+                    "desktop": "/inc/specials/sport/hi/sport/pal-wrapper/coverage.inc?category=rugbyunion&title=Rugby+Union+Coverage",
+                    "highweb": "/inc/specials/sport/hi/sport/pal-wrapper/coverage.inc?category=rugbyunion&title=Rugby+Union+Coverage"
+                  },
+                  "options": {},
+                  "title": "Rugby Union coverage",
+                  "type": "INCLUDE"
+                }
+              ],
+              "semanticGroupName": "Coverage include"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Coming up hyper",
+              "items": [
+                {
+                  "assetId": "18985233",
+                  "assetUri": "/sport/18985233",
+                  "firstCreated": "2012-07-25T11:35:12+00:00",
+                  "headline": "Sport Promo Module",
+                  "language": "en-gb",
+                  "lastUpdated": "2016-02-15T14:10:19+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Coming up hyper"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Elsewhere on the BBC",
+              "items": [
+                {
+                  "assetId": "16583227",
+                  "assetUri": "/sport/16583227",
+                  "firstCreated": "2012-01-16T15:37:22+00:00",
+                  "headline": "Elsewhere on the BBC - IFS indexes",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-03-26T20:43:50+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Elsewhere on the BBC"
+            }
+          ],
+          "semanticGroupName": "Events"
+        }
+      ],
+      "options": {
+        "allowAdvertising": true
+      },
+      "language": "en-gb",
+      "id": "http://www.bbc.co.uk/asset/b5c53246-3b5c-e059-e040-850a02846523/desktop/domestic",
+      "assetUri": "/sport/rugby-union",
+      "platform": "desktop",
+      "audience": "domestic",
+      "assetId": "12153869",
+      "section": {
+        "name": "Rugby Union",
+        "id": "100848",
+        "uri": "/sport/rugby-union",
+        "urlIdentifier": "/sport/rugby-union"
+      },
+      "site": {
+        "name": "BBC Sport",
+        "code": "sport-v6",
+        "urlIdentifier": "/sport",
+        "frontPageUri": "/sport/front-page"
+      },
+      "primaryConceptId": "http://www.bbc.co.uk/things/b773195a-9880-4773-88d4-50d36260fe12#id",
+      "workerCallingCard": "app144.back.live.telhc.local-65",
+      "iStatsCounterName": "sport.rugby_union.page"
+    }
+  ]
+}

@@ -1,0 +1,1033 @@
+{
+  "results": [
+    {
+      "title": "Rugby League",
+      "type": "IDX",
+      "lastUpdated": "2016-08-20T22:48:07+00:00",
+      "firstCreated": "2011-01-10T12:52:21+00:00",
+      "firstPublished": "2011-12-12T11:17:45+00:00",
+      "lastPublished": "2016-08-20T22:48:13+00:00",
+      "changeQueueId": "284716286",
+      "changeQueueTimestamp": "2016-08-20T22:48:07+00:00",
+      "groups": [
+        {
+          "type": "type-a-container-structural-3",
+          "title": "STRUCTURAL CONTAINER",
+          "groups": [
+            {
+              "type": "type-a-container-structural-4",
+              "title": "Top stories",
+              "groups": [
+                {
+                  "type": "type-a-container-primary-4",
+                  "title": "Standard news promotion",
+                  "groups": [
+                    {
+                      "type": "type-a-top-story-1",
+                      "title": "Standard Top Lead",
+                      "maxRelatedLinks": 0,
+                      "items": [
+                        {
+                          "assetId": "37125153",
+                          "assetUri": "/sport/rugby-league/37125153",
+                          "firstCreated": "2016-08-19T13:50:42+00:00",
+                          "hasShortForm": true,
+                          "headline": "Warrington 14-11 Castleford",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-20T14:54:14+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90860388": {
+                                  "height": 576,
+                                  "width": 1024,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/158F2/production/_90860388_wire.jpg",
+                                  "altText": "Jack Hughes",
+                                  "copyrightHolder": "Rex Features"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "prominence": "slideshow",
+                          "section": {
+                            "name": "Super League",
+                            "id": "101428",
+                            "externalUrl": "/sport/0/rugby-league/",
+                            "urlIdentifier": "/sport/rugby-league/super-league"
+                          },
+                          "summary": "Jack Hughes scores a last-minute try for Warrington as the Wolves beat Castleford to secure a Super League play-off spot.",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "Standard top story"
+                    },
+                    {
+                      "type": "type-a-container-story-pair-1",
+                      "title": "Secondary news promotion",
+                      "groups": [
+                        {
+                          "type": "type-a-story-1",
+                          "title": "Story/Live/Feature 2",
+                          "maxRelatedLinks": 0,
+                          "items": [
+                            {
+                              "assetId": "37125172",
+                              "assetUri": "/sport/rugby-league/37125172",
+                              "firstCreated": "2016-08-19T14:00:47+00:00",
+                              "hasShortForm": true,
+                              "headline": "London Broncos 28-42 Leeds",
+                              "language": "en-gb",
+                              "lastUpdated": "2016-08-20T16:36:33+00:00",
+                              "media": {
+                                "images": {
+                                  "index": {
+                                    "90861762": {
+                                      "height": 549,
+                                      "width": 976,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/685C/production/_90861762_rexfeatures_5586426av.jpg",
+                                      "altText": "Tom Briscoe",
+                                      "copyrightHolder": "Rex Features"
+                                    }
+                                  }
+                                }
+                              },
+                              "options": {
+                                "isBreakingNews": false
+                              },
+                              "section": {
+                                "name": "Super League",
+                                "id": "101428",
+                                "externalUrl": "/sport/0/rugby-league/",
+                                "urlIdentifier": "/sport/rugby-league/super-league"
+                              },
+                              "summary": "Tom Briscoe's hat-trick helps Leeds to an easy victory over London Broncos in the Qualifiers.",
+                              "type": "STY"
+                            }
+                          ],
+                          "semanticGroupName": "Story 2"
+                        },
+                        {
+                          "type": "type-a-story-1",
+                          "title": "Story/Live/Feature 3",
+                          "maxRelatedLinks": 0,
+                          "items": [
+                            {
+                              "assetId": "37110167",
+                              "assetUri": "/sport/rugby-league/37110167",
+                              "firstCreated": "2016-08-17T14:56:14+00:00",
+                              "hasShortForm": true,
+                              "headline": "Wigan 25-0 St Helens",
+                              "language": "en-gb",
+                              "lastUpdated": "2016-08-19T21:42:17+00:00",
+                              "media": {
+                                "images": {
+                                  "index": {
+                                    "90854868": {
+                                      "height": 1152,
+                                      "width": 2048,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/1533D/production/_90854868_gelling_rex.jpg",
+                                      "altText": "Wigan's Anthony Gelling scores against St Helens",
+                                      "copyrightHolder": "Rex Features"
+                                    }
+                                  }
+                                }
+                              },
+                              "options": {
+                                "isBreakingNews": false
+                              },
+                              "section": {
+                                "name": "Super League",
+                                "id": "101428",
+                                "externalUrl": "/sport/0/rugby-league/",
+                                "urlIdentifier": "/sport/rugby-league/super-league"
+                              },
+                              "summary": "Anthony Gelling scores a hat-trick as Wigan end St Helens' seven-match winning run to go second in the Super 8s table.",
+                              "type": "STY"
+                            }
+                          ],
+                          "semanticGroupName": "Story 3"
+                        }
+                      ],
+                      "semanticGroupName": "Secondary news promotion"
+                    }
+                  ],
+                  "semanticGroupName": "Standard news promotion"
+                },
+                {
+                  "type": "type-a-container-secondary-1",
+                  "title": "More news",
+                  "groups": [
+                    {
+                      "type": "type-a-headline-list-1",
+                      "title": "Headlines",
+                      "items": [
+                        {
+                          "assetId": "37110391",
+                          "assetUri": "/sport/rugby-league/37110391",
+                          "firstCreated": "2016-08-17T16:12:24+00:00",
+                          "hasShortForm": true,
+                          "headline": "Salford 12-29 Hull KR",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-19T21:55:19+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90854871": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/45B5/production/_90854871_mantellato_rex.jpg",
+                                  "altText": "Josh Mantellato in action for Hull KR",
+                                  "copyrightHolder": "Rex Features"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Super League",
+                            "id": "101428",
+                            "externalUrl": "/sport/0/rugby-league/",
+                            "urlIdentifier": "/sport/rugby-league/super-league"
+                          },
+                          "summary": "Josh Mantellato scores 16 points in a 29-12 win over strugglers Salford to boost Hull KR's Super League survival hopes.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37141676",
+                          "assetUri": "/news/uk-england-south-yorkshire-37141676",
+                          "firstCreated": "2016-08-20T10:23:41+00:00",
+                          "hasShortForm": true,
+                          "headline": "Cash-strapped rugby club 'could close'",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-20T10:23:41+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90858313": {
+                                  "height": 549,
+                                  "width": 976,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/7A99/production/_90858313_rfl_1080.jpg",
+                                  "altText": "Sheffield Eagles",
+                                  "copyrightHolder": "Allan McKenzie/SWpix.com"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Sheffield & South Yorkshire",
+                            "id": "99239",
+                            "uri": "/news/england/south_yorkshire",
+                            "urlIdentifier": "/sport/england/south-yorkshire"
+                          },
+                          "site": {
+                            "name": "BBC News",
+                            "code": "news-v6",
+                            "urlIdentifier": "/news"
+                          },
+                          "summary": "Rugby league club Sheffield Eagles says it is in a \"dire financial predicament\" and may be forced to close",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37133272",
+                          "assetUri": "/sport/rugby-league/37133272",
+                          "firstCreated": "2016-08-19T14:16:22+00:00",
+                          "hasShortForm": true,
+                          "headline": "Warrington re-sign Bradford's Blythe",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-19T14:16:22+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90850659": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/17575/production/_90850659_blythe2.jpg",
+                                  "altText": "Matty Blythe",
+                                  "copyrightHolder": "Rex Features"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Warrington",
+                            "id": "101641",
+                            "externalUrl": "/sport/rugby-league/teams/warrington/",
+                            "urlIdentifier": "/sport/rugby-league/super-league/warrington"
+                          },
+                          "summary": "Super League club Warrington Wolves re-sign Bradford's Matty Blythe on a one-year deal for the 2017 season.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37110149",
+                          "assetUri": "/sport/rugby-league/37110149",
+                          "firstCreated": "2016-08-18T09:47:40+00:00",
+                          "hasShortForm": true,
+                          "headline": "Hull FC 44-0 Catalans Dragons",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-18T21:02:02+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90840777": {
+                                  "height": 576,
+                                  "width": 1024,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/12F88/production/_90840777_sneyd_rex.jpg",
+                                  "altText": "Marc Sneyd",
+                                  "copyrightHolder": "Rex Features"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Super League",
+                            "id": "101428",
+                            "externalUrl": "/sport/0/rugby-league/",
+                            "urlIdentifier": "/sport/rugby-league/super-league"
+                          },
+                          "summary": "Hull FC book their place in Super League's play-off semi-finals by thrashing Catalans Dragons.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37126368",
+                          "assetUri": "/sport/rugby-league/37126368",
+                          "firstCreated": "2016-08-19T15:40:06+00:00",
+                          "hasShortForm": true,
+                          "headline": "Batley v Huddersfield (Sun)",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-19T15:40:06+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90851080": {
+                                  "height": 576,
+                                  "width": 1024,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/1F4F/production/_90851080_q012_0659.jpg",
+                                  "altText": "Patch Walker",
+                                  "copyrightHolder": "SWpix.com"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Super League",
+                            "id": "101428",
+                            "externalUrl": "/sport/0/rugby-league/",
+                            "urlIdentifier": "/sport/rugby-league/super-league"
+                          },
+                          "summary": "Team news as Batley Bulldogs host Huddersfield Giants in Sunday's Qualifiers match at Fox's Biscuits Stadium (15:00 BST).",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37126396",
+                          "assetUri": "/sport/rugby-league/37126396",
+                          "firstCreated": "2016-08-19T14:33:50+00:00",
+                          "hasShortForm": true,
+                          "headline": "Featherstone v Leigh (Sun)",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-19T14:33:50+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90851072": {
+                                  "height": 549,
+                                  "width": 976,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/6987/production/_90851072_q014_0604.jpg",
+                                  "altText": "Tim Spears",
+                                  "copyrightHolder": "SWpix.com"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Super League",
+                            "id": "101428",
+                            "externalUrl": "/sport/0/rugby-league/",
+                            "urlIdentifier": "/sport/rugby-league/super-league"
+                          },
+                          "summary": "Team news as Featherstone Rovers host Leigh Centurions in Sunday's Qualifiers match at Bigfellas Stadium (15:00 BST).",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "More news headlines"
+                    }
+                  ],
+                  "semanticGroupName": "More news"
+                }
+              ],
+              "semanticGroupName": "Top stories"
+            },
+            {
+              "type": "type-a-container-secondary-2",
+              "title": "AV/comments",
+              "groups": [
+                {
+                  "type": "type-a-container-digest-1",
+                  "title": "Section digest",
+                  "strapline": {
+                    "name": "Team by Team"
+                  },
+                  "groups": [
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Section digest 1",
+                      "strapline": {
+                        "name": "CASTLEFORD TIGERS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/castleford",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/castleford"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:04:34+00:00",
+                          "lastUpdated": "2013-03-05T11:04:34+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/castleford",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/castleford"
+                          },
+                          "options": {},
+                          "title": "Latest Castleford news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 1"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Catalans importer",
+                      "strapline": {
+                        "name": "CATALANS DRAGONS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/catalans",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/catalans"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:05:19+00:00",
+                          "lastUpdated": "2013-03-05T11:05:19+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/catalans",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/catalans"
+                          },
+                          "options": {},
+                          "title": "Latest Dragons news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 2"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Huddersfield importer",
+                      "strapline": {
+                        "name": "HUDDERSFIELD GIANTS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/huddersfield",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/huddersfield"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:06:53+00:00",
+                          "lastUpdated": "2013-03-05T11:06:53+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/huddersfield",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/huddersfield"
+                          },
+                          "options": {},
+                          "title": "Latest Huddersfield news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 3"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Hull FC importer",
+                      "strapline": {
+                        "name": "HULL FC",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/hull",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/hull"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:07:17+00:00",
+                          "lastUpdated": "2013-03-05T11:07:17+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/hull",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/hull"
+                          },
+                          "options": {},
+                          "title": "Latest Hull FC news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 5"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Hull KR importer",
+                      "strapline": {
+                        "name": "HULL KR",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/hull-kr",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/hull-kr"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:07:40+00:00",
+                          "lastUpdated": "2013-03-05T11:07:40+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/hull-kr",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/hull-kr"
+                          },
+                          "options": {},
+                          "title": "Latest Hull KR news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 6"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Leeds Rhinos importer",
+                      "strapline": {
+                        "name": "LEEDS RHINOS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/leeds",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/leeds"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:08:08+00:00",
+                          "lastUpdated": "2013-03-05T11:08:08+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/leeds",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/leeds"
+                          },
+                          "options": {},
+                          "title": "Latest Leeds news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 7"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Salford Red Devils importer",
+                      "strapline": {
+                        "name": "SALFORD RED DEVILS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/salford",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/salford"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:08:31+00:00",
+                          "lastUpdated": "2013-03-05T11:08:31+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/salford",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/salford"
+                          },
+                          "options": {},
+                          "title": "Latest Salford news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 8"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "St Helens importer",
+                      "strapline": {
+                        "name": "ST HELENS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/st-helens",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/st-helens"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:12:41+00:00",
+                          "lastUpdated": "2013-03-05T11:12:41+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/st-helens",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/st-helens"
+                          },
+                          "options": {},
+                          "title": "Latest Saints news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 9"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Wakefield Trinity Wildcats importer",
+                      "strapline": {
+                        "name": "WAKEFIELD TRINITY WILDCATS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/wakefield",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/wakefield"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:13:08+00:00",
+                          "lastUpdated": "2013-03-05T11:13:08+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/wakefield",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/wakefield"
+                          },
+                          "options": {},
+                          "title": "Latest Wakefield news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 10"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Warrington Wolves importer",
+                      "strapline": {
+                        "name": "WARRINGTON WOLVES",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/warrington",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/warrington"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:13:38+00:00",
+                          "lastUpdated": "2013-03-05T11:13:38+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/warrington",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/warrington"
+                          },
+                          "options": {},
+                          "title": "Latest Wolves news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 11"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Widnes Vikings importer",
+                      "strapline": {
+                        "name": "WIDNES VIKINGS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/widnes",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/widnes"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:14:08+00:00",
+                          "lastUpdated": "2013-03-05T11:14:08+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/widnes",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/widnes"
+                          },
+                          "options": {},
+                          "title": "Latest Widnes news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 12"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Wigan Warriors importer",
+                      "strapline": {
+                        "name": "WIGAN WARRIORS",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/wigan",
+                          "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/wigan"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2013-03-05T11:14:28+00:00",
+                          "lastUpdated": "2013-03-05T11:14:28+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/rugby-league/teams/wigan",
+                            "highweb": "http://www.bbc.co.uk/sport/rugby-league/teams/wigan"
+                          },
+                          "options": {},
+                          "title": "Latest Wigan news",
+                          "type": "LINK"
+                        }
+                      ],
+                      "semanticGroupName": "Section digest 13"
+                    }
+                  ],
+                  "semanticGroupName": "Section digest"
+                }
+              ],
+              "semanticGroupName": "AV/comments"
+            },
+            {
+              "type": "type-a-container-secondary-1",
+              "title": "River",
+              "groups": [
+                {
+                  "type": "type-a-quotebox-1",
+                  "title": "Quotebox",
+                  "items": [
+                    {
+                      "linkedItem": {
+                        "assetId": "19359954",
+                        "assetUri": "/sport/rugby-league/19359954",
+                        "firstCreated": "2012-08-23T15:45:49+00:00",
+                        "headline": "Two bids lead race to buy Bulls",
+                        "language": "en-gb",
+                        "lastUpdated": "2012-08-24T11:33:29+00:00",
+                        "section": {
+                          "name": "Rugby League",
+                          "id": "101646",
+                          "externalUrl": "/sport/rugby-league/teams/bradford/",
+                          "urlIdentifier": "/sport/rugby-league/super-league/bradford"
+                        },
+                        "type": "STY"
+                      },
+                      "media": {
+                        "images": {
+                          "index": {
+                            "62470136": {
+                              "height": 189,
+                              "width": 336,
+                              "originCode": "mcs",
+                              "href": "http://news.bbcimg.co.uk/media/images/62470000/jpg/_62470136__59540173_odsal.jpg",
+                              "altText": "Bradford Bulls",
+                              "copyrightHolder": "BBC"
+                            }
+                          }
+                        }
+                      },
+                      "options": {},
+                      "quoteSource": "RFL director of licensing Blake Solly",
+                      "quoteText": "The bid from Super League (Europe) Ltd remains on the table but it is very much a last resort",
+                      "type": "QUO"
+                    }
+                  ],
+                  "semanticGroupName": "Quotebox"
+                },
+                {
+                  "type": "type-a-hyperpuff-1",
+                  "title": "External links hyper",
+                  "strapline": {
+                    "name": "Official sites"
+                  },
+                  "items": [
+                    {
+                      "assetId": "16690820",
+                      "assetUri": "/sport/rugby-league/16690820",
+                      "firstCreated": "2012-01-23T16:04:25+00:00",
+                      "headline": "rugby league Official sites hyperpuff",
+                      "language": "en-gb",
+                      "lastUpdated": "2012-07-26T11:17:37+00:00",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "type": "HYP"
+                    }
+                  ],
+                  "semanticGroupName": "External links hyper"
+                },
+                {
+                  "type": "type-a-hyperpuff-1",
+                  "title": "Programme links hyper",
+                  "strapline": {
+                    "name": "Programmes"
+                  },
+                  "items": [
+                    {
+                      "assetId": "16148125",
+                      "assetUri": "/sport/rugby-union/16148125",
+                      "firstCreated": "2011-12-12T16:04:29+00:00",
+                      "headline": "Programme links hyper - rugby league",
+                      "language": "en-gb",
+                      "lastUpdated": "2013-01-24T14:07:21+00:00",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "overtypedHeadline": "Programme links",
+                      "type": "HYP"
+                    }
+                  ],
+                  "semanticGroupName": "Programme links hyper"
+                },
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "Downloads include",
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/inc/specials/sport/hi/sport/downloads/rugby-league/podcast-downloads.inc",
+                        "highweb": "/inc/specials/sport/hi/sport/downloads/rugby-league/podcast-downloads.inc"
+                      },
+                      "options": {},
+                      "title": "Podcasts",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "Downloads include"
+                },
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "RSS feeds include",
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/inc/specials/sport/hi/sport/rss/rugby-league/rss.inc",
+                        "highweb": "/inc/specials/sport/hi/sport/rss/rugby-league/rss.inc"
+                      },
+                      "options": {},
+                      "title": "RSS feed for Rugby League",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "RSS feeds include"
+                }
+              ],
+              "semanticGroupName": "River"
+            }
+          ],
+          "semanticGroupName": "STRUCTURAL CONTAINER"
+        },
+        {
+          "type": "type-a-container-tertiary-1",
+          "title": "Events",
+          "groups": [
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "RL Scores, Fixtures, Results hyper",
+              "items": [
+                {
+                  "assetId": "16691144",
+                  "assetUri": "/sport/rugby-league/16691144",
+                  "firstCreated": "2012-01-23T16:16:11+00:00",
+                  "headline": "Rugby League scores, results and fixtures hyper",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-10-15T12:16:04+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "overtypedHeadline": "hyperpuff for rugby league scores, results & fixtures",
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Event stats hyper"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Radio Commentaries hyper",
+              "items": [
+                {
+                  "assetId": "31083726",
+                  "assetUri": "/sport/rugby-league/31083726",
+                  "firstCreated": "2015-02-01T15:43:33+00:00",
+                  "headline": "RL BBC national and local radio / TV comms hyper",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-11-07T17:27:24+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Radio coverage hyper"
+            },
+            {
+              "type": "type-a-data-feed-1",
+              "title": "BBC coverage include",
+              "items": [
+                {
+                  "links": {
+                    "desktop": "/inc/specials/sport/hi/sport/pal-wrapper/coverage.inc?category=rugbyleague&title=Rugby+League+Coverage",
+                    "highweb": "/inc/specials/sport/hi/sport/pal-wrapper/coverage.inc?category=rugbyleague&title=Rugby+League+Coverage"
+                  },
+                  "options": {},
+                  "title": "Rugby League coverage",
+                  "type": "INCLUDE"
+                }
+              ],
+              "semanticGroupName": "Coverage include"
+            },
+            {
+              "type": "type-a-data-feed-1",
+              "title": "Stats include 1",
+              "items": [
+                {
+                  "links": {
+                    "desktop": "/shared/app/sportui/things-to-do?",
+                    "highweb": "/shared/app/sportui/things-to-do?"
+                  },
+                  "options": {},
+                  "title": "Things To Do include",
+                  "type": "INCLUDE"
+                }
+              ],
+              "semanticGroupName": "Stats include 1"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Special promotion 4",
+              "items": [
+                {
+                  "assetId": "18985233",
+                  "assetUri": "/sport/18985233",
+                  "firstCreated": "2012-07-25T11:35:12+00:00",
+                  "headline": "Sport Promo Module",
+                  "language": "en-gb",
+                  "lastUpdated": "2016-02-15T14:10:19+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Special promotion hyper 3"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Elsewhere on the BBC",
+              "items": [
+                {
+                  "assetId": "16583227",
+                  "assetUri": "/sport/16583227",
+                  "firstCreated": "2012-01-16T15:37:22+00:00",
+                  "headline": "Elsewhere on the BBC - IFS indexes",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-03-26T20:43:50+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Elsewhere on the BBC"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Special promotion hyper 4",
+              "items": [
+                {
+                  "assetId": "16687824",
+                  "assetUri": "/sport/rugby-league/16687824",
+                  "firstCreated": "2012-01-23T15:32:39+00:00",
+                  "headline": "follow george riley on twitter hyperpuff",
+                  "language": "en-gb",
+                  "lastUpdated": "2012-01-23T15:32:39+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "overtypedHeadline": "George Riley on Twitter postbox promo hyper",
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Special promotion hyper 4"
+            }
+          ],
+          "semanticGroupName": "Events"
+        }
+      ],
+      "options": {
+        "allowAdvertising": true
+      },
+      "language": "en-gb",
+      "id": "http://www.bbc.co.uk/asset/b5c53246-3b5b-e059-e040-850a02846523/desktop/domestic",
+      "assetUri": "/sport/rugby-league",
+      "platform": "desktop",
+      "audience": "domestic",
+      "assetId": "12153868",
+      "section": {
+        "name": "Rugby League",
+        "id": "100847",
+        "uri": "/sport/rugby-league",
+        "urlIdentifier": "/sport/rugby-league"
+      },
+      "site": {
+        "name": "BBC Sport",
+        "code": "sport-v6",
+        "urlIdentifier": "/sport",
+        "frontPageUri": "/sport/front-page"
+      },
+      "primaryConceptId": "http://www.bbc.co.uk/things/2ff39a77-e085-41bd-90f5-8a81f0312e9a#id",
+      "workerCallingCard": "app058.back.live.cwwtf.local-57",
+      "iStatsCounterName": "sport.rugby_league.page"
+    }
+  ]
+}

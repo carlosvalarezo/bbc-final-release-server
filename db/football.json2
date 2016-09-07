@@ -1,0 +1,2261 @@
+{
+  "results": [
+    {
+      "title": "Football",
+      "type": "IDX",
+      "lastUpdated": "2016-08-27T16:43:09+00:00",
+      "firstCreated": "2011-01-10T12:37:18+00:00",
+      "firstPublished": "2011-12-12T11:43:16+00:00",
+      "lastPublished": "2016-08-27T16:51:58+00:00",
+      "changeQueueId": "285207460",
+      "changeQueueTimestamp": "2016-08-27T16:51:50+00:00",
+      "groups": [
+        {
+          "type": "type-a-container-structural-3",
+          "title": "STRUCTURAL CONTAINER",
+          "groups": [
+            {
+              "type": "type-a-container-structural-4",
+              "title": "Top stories",
+              "groups": [
+                {
+                  "type": "type-a-container-primary-4",
+                  "title": "Standard news promotion",
+                  "groups": [
+                    {
+                      "type": "type-a-top-story-1",
+                      "title": "Standard Top Lead",
+                      "maxRelatedLinks": 1,
+                      "items": [
+                        {
+                          "assetId": "36741292",
+                          "assetUri": "/sport/live/football/36741292",
+                          "commentary": {
+                            "order": "descending",
+                            "assetUUID": "DAB8227C5BAE86408DEB8767A9BC1B69",
+                            "channels": {
+                              "enhancedmobile": "bbc.cps.asset.37151225_EnhancedMobile",
+                              "desktop": "bbc.cps.asset.37151225_HighWeb",
+                              "highweb": "bbc.cps.asset.37151225_HighWeb",
+                              "mobile": "bbc.cps.asset.37151225_EnhancedMobile"
+                            }
+                          },
+                          "firstCreated": "2016-08-21T21:47:22+00:00",
+                          "headline": "Hull City 0-0 Manchester United",
+                          "isLive": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-21T21:47:22+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90950049": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/16F35/production/_90950049_waynerooneypa.jpg",
+                                  "altText": "Wayne Rooney",
+                                  "copyrightHolder": "PA"
+                                }
+                              },
+                              "index-thumbnail": {
+                                "90870724": {
+                                  "height": 180,
+                                  "width": 320,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/A6D3/production/_90870724_robert_snodgrass_getty.jpg",
+                                  "altText": "Robert Snodgrass of Hull City",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "prominence": "slideshow",
+                          "section": {
+                            "name": "Premier League",
+                            "id": "101344",
+                            "uri": "/sport/football/premier-league",
+                            "urlIdentifier": "/sport/football/premier-league"
+                          },
+                          "summary": "Follow live text coverage from the KCOM Stadium as Hull City host Manchester United in the Premier League.",
+                          "type": "LIV"
+                        }
+                      ],
+                      "semanticGroupName": "Standard top story"
+                    },
+                    {
+                      "type": "type-a-container-story-pair-1",
+                      "title": "Secondary news promotion",
+                      "groups": [
+                        {
+                          "type": "type-a-story-1",
+                          "title": "Story/Live/Feature 2",
+                          "maxRelatedLinks": 0,
+                          "items": [
+                            {
+                              "assetId": "36741289",
+                              "assetUri": "/sport/live/football/36741289",
+                              "commentary": {
+                                "order": "descending",
+                                "assetUUID": "29B40181ECBF5545AA75B0359424834D",
+                                "channels": {
+                                  "enhancedmobile": "bbc.cps.asset.37161136_EnhancedMobile",
+                                  "desktop": "bbc.cps.asset.37161136_HighWeb",
+                                  "highweb": "bbc.cps.asset.37161136_HighWeb",
+                                  "mobile": "bbc.cps.asset.37161136_EnhancedMobile"
+                                }
+                              },
+                              "firstCreated": "2016-08-26T12:22:41+00:00",
+                              "headline": "Reaction: Saturday football",
+                              "isLive": true,
+                              "language": "en-gb",
+                              "lastUpdated": "2016-08-26T12:22:41+00:00",
+                              "media": {
+                                "images": {
+                                  "index": {
+                                    "90949774": {
+                                      "height": 1152,
+                                      "width": 2048,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/BAB2/production/_90949774_victor_moses_getyt.jpg",
+                                      "altText": "Victor Moses celebrates",
+                                      "copyrightHolder": "Getty Images"
+                                    }
+                                  },
+                                  "index-thumbnail": {
+                                    "90949776": {
+                                      "height": 180,
+                                      "width": 320,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/108D2/production/_90949776_victor_moses_getyt.jpg",
+                                      "altText": "Victor Moses celebrates",
+                                      "copyrightHolder": "Getty Images"
+                                    }
+                                  }
+                                }
+                              },
+                              "options": {
+                                "isBreakingNews": false
+                              },
+                              "section": {
+                                "name": "Football",
+                                "id": "100830",
+                                "uri": "/sport/football",
+                                "urlIdentifier": "/sport/football"
+                              },
+                              "summary": "Reaction to Saturday afternoon's six Premier League games, with wins for Arsenal, Chelsea, Leicester and Everton.",
+                              "type": "LIV"
+                            }
+                          ],
+                          "semanticGroupName": "Story 2"
+                        },
+                        {
+                          "type": "type-a-story-1",
+                          "title": "Story/Live/Feature 3",
+                          "maxRelatedLinks": 0,
+                          "items": [
+                            {
+                              "assetId": "37203694",
+                              "assetUri": "/sport/live/football/37203694",
+                              "commentary": {
+                                "order": "descending",
+                                "assetUUID": "787B8CC04CA22A4390E1356793B8D3B1",
+                                "channels": {
+                                  "enhancedmobile": "bbc.cps.asset.37203695_EnhancedMobile",
+                                  "desktop": "bbc.cps.asset.37203695_HighWeb",
+                                  "highweb": "bbc.cps.asset.37203695_HighWeb",
+                                  "mobile": "bbc.cps.asset.37203695_EnhancedMobile"
+                                }
+                              },
+                              "firstCreated": "2016-08-27T09:26:31+00:00",
+                              "headline": "Saturday's Scottish football - radio & text",
+                              "isLive": true,
+                              "language": "en-gb",
+                              "lastUpdated": "2016-08-27T09:26:31+00:00",
+                              "media": {
+                                "images": {
+                                  "index": {
+                                    "90949404": {
+                                      "height": 1152,
+                                      "width": 2048,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/9E2E/production/_90949404_12487951.jpg",
+                                      "altText": "Aberdeen boss Derek McInnes and Celtic manager Brendan Rodgers",
+                                      "copyrightHolder": "SNS Group Rob Casey"
+                                    }
+                                  },
+                                  "index-thumbnail": {
+                                    "90949406": {
+                                      "height": 180,
+                                      "width": 320,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/EC4E/production/_90949406_12487951.jpg",
+                                      "altText": "Aberdeen boss Derek McInnes and Celtic manager Brendan Rodgers",
+                                      "copyrightHolder": "SNS Group Rob Casey"
+                                    }
+                                  }
+                                }
+                              },
+                              "options": {
+                                "isBreakingNews": false
+                              },
+                              "section": {
+                                "name": "Scottish Football",
+                                "id": "101347",
+                                "uri": "/sport/football/scottish",
+                                "urlIdentifier": "/sport/football/scottish"
+                              },
+                              "summary": "Celtic score four against Aberdeen to take top spot in the Premiership, while Hamilton, Inverness and Hearts enjoy wins.",
+                              "type": "LIV"
+                            }
+                          ],
+                          "semanticGroupName": "Story 3"
+                        }
+                      ],
+                      "semanticGroupName": "Secondary news promotion"
+                    }
+                  ],
+                  "semanticGroupName": "Standard news promotion"
+                },
+                {
+                  "type": "type-a-container-secondary-1",
+                  "title": "More news",
+                  "groups": [
+                    {
+                      "type": "type-a-headline-list-1",
+                      "title": "Headlines DON'T REMOVE WOMEN AT BOTTOM",
+                      "items": [
+                        {
+                          "assetId": "37139685",
+                          "assetUri": "/sport/football/37139685",
+                          "byline": {
+                            "name": "By Saj Chowdhury",
+                            "persons": [
+                              {
+                                "name": "Saj Chowdhury",
+                                "function": "BBC Sport",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Sport"
+                          },
+                          "firstCreated": "2016-08-26T10:42:26+00:00",
+                          "hasShortForm": true,
+                          "headline": "Leicester City 2-1 Swansea City",
+                          "headlineIncludeUrl": "/shared/app/sport/football/oppm/header/EFBO855196",
+                          "isOppm": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T16:45:06+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90949198": {
+                                  "height": 432,
+                                  "width": 768,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/15C6A/production/_90949198_vardy_getty.jpg",
+                                  "altText": "Jamie Vardy",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Premier League",
+                            "id": "101344",
+                            "uri": "/sport/football/premier-league",
+                            "urlIdentifier": "/sport/football/premier-league"
+                          },
+                          "summary": "Jamie Vardy scores his first goal of the season to help champions Leicester record their first win with victory over Swansea.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37139886",
+                          "assetUri": "/sport/football/37139886",
+                          "byline": {
+                            "name": "By Gary Rose",
+                            "persons": [
+                              {
+                                "name": "Gary Rose",
+                                "function": "BBC Sport",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Sport"
+                          },
+                          "firstCreated": "2016-08-26T11:01:18+00:00",
+                          "hasShortForm": true,
+                          "headline": "Chelsea 3-0 Burnley",
+                          "headlineIncludeUrl": "/shared/app/sport/football/oppm/header/EFBO855192",
+                          "isOppm": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T16:34:53+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90947355": {
+                                  "height": 724,
+                                  "width": 1288,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/D84E/production/_90947355_edenhazard.jpg",
+                                  "altText": "Eden Hazard",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Premier League",
+                            "id": "101344",
+                            "uri": "/sport/football/premier-league",
+                            "urlIdentifier": "/sport/football/premier-league"
+                          },
+                          "summary": "Chelsea maintain their 100% start to the season with a comfortable victory over Burnley at Stamford Bridge.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37140519",
+                          "assetUri": "/sport/football/37140519",
+                          "byline": {
+                            "name": "By Phil McNulty",
+                            "persons": [
+                              {
+                                "name": "Phil McNulty",
+                                "correspondentId": "philmcnulty",
+                                "url": "/sport/correspondents/philmcnulty",
+                                "function": "Chief football writer",
+                                "thumbnail": "http://c.files.bbci.co.uk/4E68/production/_90327002__64086311_phil-mcnulty_203x152.jpg",
+                                "originCode": "CPSPRODPB"
+                              }
+                            ],
+                            "title": "Chief football writer at White Hart Lane"
+                          },
+                          "firstCreated": "2016-08-25T15:54:06+00:00",
+                          "headline": "Tottenham 1-1 Liverpool",
+                          "headlineIncludeUrl": "/shared/app/sport/football/oppm/header/EFBO855199",
+                          "isOppm": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T14:27:58+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90948179": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/17BA0/production/_90948179_tottenhamcelebrategetty1.jpg",
+                                  "caption": "Tottenham players celebrate",
+                                  "altText": "Tottenham players celebrate",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              },
+                              "index-thumbnail": {
+                                "90948372": {
+                                  "height": 180,
+                                  "width": 320,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/6AF8/production/_90948372_tottenhamcelebrate2getty.jpg",
+                                  "caption": "Tottenham celebrate",
+                                  "altText": "Tottenham celebrate",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": true
+                          },
+                          "section": {
+                            "name": "Premier League",
+                            "id": "101344",
+                            "uri": "/sport/football/premier-league",
+                            "urlIdentifier": "/sport/football/premier-league"
+                          },
+                          "summary": "Tottenham fight back to earn a point against Liverpool at White Hart Lane thanks to a second-half strike from Danny Rose.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37139688",
+                          "assetUri": "/sport/football/37139688",
+                          "firstCreated": "2016-08-26T11:45:04+00:00",
+                          "hasShortForm": true,
+                          "headline": "Watford 1-3 Arsenal",
+                          "headlineIncludeUrl": "/shared/app/sport/football/oppm/header/EFBO855200",
+                          "isOppm": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T16:18:16+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90949744": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/AEFA/production/_90949744_gettyimages-596254680.jpg",
+                                  "altText": "Mesut Ozil",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Premier League",
+                            "id": "101344",
+                            "uri": "/sport/football/premier-league",
+                            "urlIdentifier": "/sport/football/premier-league"
+                          },
+                          "summary": "A superb first-half performance earns Arsenal their first Premier League win of the season against Watford.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37140481",
+                          "assetUri": "/sport/football/37140481",
+                          "byline": {
+                            "name": "By Michael Emons",
+                            "persons": [
+                              {
+                                "name": "Michael Emons",
+                                "function": "BBC Sport",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Sport"
+                          },
+                          "firstCreated": "2016-08-26T13:29:09+00:00",
+                          "hasShortForm": true,
+                          "headline": "Everton 1-0 Stoke City",
+                          "headlineIncludeUrl": "/shared/app/sport/football/oppm/header/EFBO855194",
+                          "isOppm": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T16:50:15+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90949304": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/9DCA/production/_90949304_everton_goal.jpg",
+                                  "altText": "Everton goal",
+                                  "copyrightHolder": "Reuters"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Premier League",
+                            "id": "101344",
+                            "uri": "/sport/football/premier-league",
+                            "urlIdentifier": "/sport/football/premier-league"
+                          },
+                          "summary": "Ronald Koeman maintains his unbeaten start as Everton manager as his team beat Stoke, who remain without a league win in 2016-17.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37139683",
+                          "assetUri": "/sport/football/37139683",
+                          "byline": {
+                            "name": "By Ian Woodcock",
+                            "persons": [
+                              {
+                                "name": "Ian Woodcock",
+                                "function": "BBC Sport",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Sport"
+                          },
+                          "firstCreated": "2016-08-26T11:23:30+00:00",
+                          "hasShortForm": true,
+                          "headline": "Crystal Palace 1-1 Bournemouth",
+                          "headlineIncludeUrl": "/shared/app/sport/football/oppm/header/EFBO855193",
+                          "isOppm": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T16:50:25+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90950168": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/15059/production/_90950168_gettyimages-596257880.jpg",
+                                  "altText": "Eddie Howe",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Premier League",
+                            "id": "101344",
+                            "uri": "/sport/football/premier-league",
+                            "urlIdentifier": "/sport/football/premier-league"
+                          },
+                          "summary": "Scott Dann's injury-time equaliser gives Crystal Palace their first point of the season against Bournemouth.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37139629",
+                          "assetUri": "/sport/football/37139629",
+                          "byline": {
+                            "name": "By Shamoon Hafez",
+                            "persons": [
+                              {
+                                "name": "Shamoon Hafez",
+                                "function": "BBC Sport",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Sport"
+                          },
+                          "firstCreated": "2016-08-26T13:13:38+00:00",
+                          "hasShortForm": true,
+                          "headline": "Southampton 1-1 Sunderland",
+                          "headlineIncludeUrl": "/shared/app/sport/football/oppm/header/EFBO855198",
+                          "isOppm": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T16:32:11+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90950017": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/1155D/production/_90950017_rod-indx-getty.jpg",
+                                  "altText": "Jay Rodriguez",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Premier League",
+                            "id": "101344",
+                            "uri": "/sport/football/premier-league",
+                            "urlIdentifier": "/sport/football/premier-league"
+                          },
+                          "summary": "Southampton and Sunderland draw to remain in search of their first Premier League wins of the season.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37139495",
+                          "assetUri": "/sport/football/37139495",
+                          "byline": {
+                            "name": "By Tom English",
+                            "persons": [
+                              {
+                                "name": "Tom English",
+                                "correspondentId": "tomenglish",
+                                "url": "/sport/correspondents/tomenglish",
+                                "function": "BBC Scotland",
+                                "thumbnail": "http://c.files.bbci.co.uk/173EA/production/_90901259_tomenglish200bw.jpg",
+                                "originCode": "CPSPRODPB"
+                              }
+                            ],
+                            "title": "BBC Scotland at Celtic Park"
+                          },
+                          "firstCreated": "2016-08-26T21:41:22+00:00",
+                          "hasShortForm": true,
+                          "headline": "Celtic 4-1 Aberdeen",
+                          "headlineIncludeUrl": "/shared/app/sport/football/oppm/header/EFBO856290",
+                          "isOppm": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T15:55:33+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90949471": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/4456/production/_90949471_forrest.jpg",
+                                  "altText": "Celtic's James Forrest and Mikael Lustig celebrate",
+                                  "copyrightHolder": "SNS Group Craig Foy"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Scottish Prem",
+                            "id": "101407",
+                            "externalUrl": "/sport/football/scottish-premier",
+                            "urlIdentifier": "/sport/football/scottish-premiership"
+                          },
+                          "summary": "Reigning champions Celtic go top of the Scottish Premiership with a comprehensive victory over last season's runners-up, Aberdeen.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37173006",
+                          "assetUri": "/sport/live/football/37173006",
+                          "commentary": {
+                            "order": "descending",
+                            "assetUUID": "B1622C2B3A1F53459ACED4960630B912",
+                            "channels": {
+                              "enhancedmobile": "bbc.cps.asset.37175889_EnhancedMobile",
+                              "desktop": "bbc.cps.asset.37175889_HighWeb",
+                              "highweb": "bbc.cps.asset.37175889_HighWeb",
+                              "mobile": "bbc.cps.asset.37175889_EnhancedMobile"
+                            }
+                          },
+                          "firstCreated": "2016-08-26T13:47:46+00:00",
+                          "headline": "Saturday's EFL action: Newcastle 1-0 Brighton",
+                          "isLive": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-26T13:47:46+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90941052": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/61B6/production/_90941052_knockaert_rex.jpg",
+                                  "altText": "Anthony Knockaert",
+                                  "copyrightHolder": "Rex Features"
+                                }
+                              },
+                              "index-thumbnail": {
+                                "90918502": {
+                                  "height": 180,
+                                  "width": 320,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/5065/production/_90918502_aaron_mooy_gettyimages.jpg",
+                                  "altText": "Huddersfield Town's Aaron Mooy",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Championship",
+                            "id": "101345",
+                            "externalUrl": "/sport/0/football/championship",
+                            "urlIdentifier": "/sport/football/championship"
+                          },
+                          "summary": "Follow live text updates as Newcastle entertain Brighton in the Championship's Saturday evening kick-off.",
+                          "type": "LIV"
+                        },
+                        {
+                          "assetId": "37138469",
+                          "assetUri": "/sport/football/37138469",
+                          "firstCreated": "2016-08-25T15:40:49+00:00",
+                          "headline": "Lawro's predictions v Laura Trott",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T13:22:49+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90917007": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/111B7/production/_90917007_lauratrott.jpg",
+                                  "altText": "Laura Trott",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Premier League",
+                            "id": "101344",
+                            "uri": "/sport/football/premier-league",
+                            "urlIdentifier": "/sport/football/premier-league"
+                          },
+                          "summary": "BBC football expert Mark Lawrenson takes on Olympic cycling champion Laura Trott in this week's Premier League fixtures.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2016-08-06T11:17:37+00:00",
+                          "lastUpdated": "2016-08-06T11:17:37+00:00",
+                          "links": {
+                            "enhancedmobile": "http://m.bbc.co.uk/sport/football/premier-league/predictor",
+                            "desktop": "http://www.bbc.co.uk/sport/football/premier-league/predictor",
+                            "highweb": "http://www.bbc.co.uk/sport/football/premier-league/predictor",
+                            "mobile": "http://m.bbc.co.uk/sport/football/premier-league/predictor"
+                          },
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90950025": {
+                                  "height": 576,
+                                  "width": 1024,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/CB25/production/_90950025_baggiesboro.png",
+                                  "altText": "West Brom v Middlesbrough graphic",
+                                  "copyrightHolder": "BBC"
+                                }
+                              }
+                            }
+                          },
+                          "options": {},
+                          "summary": "Take part in our new Premier League Predictor game, which allows you to create leagues with friends as you test your football knowledge.",
+                          "title": "Premier League Predictor: Play now",
+                          "type": "LINK"
+                        },
+                        {
+                          "assetId": "37139030",
+                          "assetUri": "/sport/football/37139030",
+                          "firstCreated": "2016-08-27T09:23:45+00:00",
+                          "headline": "Swindon Town A-A Bristol Rovers",
+                          "headlineIncludeUrl": "/shared/app/sport/football/oppm/header/EFBO858738",
+                          "isOppm": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T14:23:28+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90948672": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/6C24/production/_90948672_rain2_rex.jpg",
+                                  "altText": "Swindon v Bristol Rovers",
+                                  "copyrightHolder": "Rex Features"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "League One",
+                            "id": "101413",
+                            "externalUrl": "/sport/football/league-one",
+                            "urlIdentifier": "/sport/football/league-one"
+                          },
+                          "summary": "Swindon Town's home League One game against Bristol Rovers is abandoned because of bad weather at the County Ground.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37203233",
+                          "assetUri": "/sport/football/37203233",
+                          "firstCreated": "2016-08-27T08:25:49+00:00",
+                          "hasShortForm": true,
+                          "headline": "Pellegrini joins Hebei China Fortune",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T08:25:49+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90946260": {
+                                  "height": 576,
+                                  "width": 1024,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/1878/production/_90946260_manuel_pellegrini_hebei_china_fortune_pa.jpg",
+                                  "altText": "Manuel Pellegrini",
+                                  "copyrightHolder": "PA"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Football",
+                            "id": "100830",
+                            "uri": "/sport/football",
+                            "urlIdentifier": "/sport/football"
+                          },
+                          "summary": "Manuel Pellegrini joins Hebei China Fortune in the Chinese Super League, two months after being replaced at Manchester City.",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "More news headlines"
+                    }
+                  ],
+                  "semanticGroupName": "More news"
+                }
+              ],
+              "semanticGroupName": "Top stories"
+            },
+            {
+              "type": "type-a-container-secondary-2",
+              "title": "AV/comments",
+              "groups": [
+                {
+                  "type": "type-a-media-list-1",
+                  "title": "Video",
+                  "strapline": {
+                    "name": "Video & Audio"
+                  },
+                  "items": [
+                    {
+                      "assetId": "37204791",
+                      "assetUri": "/sport/football/37204791",
+                      "firstCreated": "2016-08-27T14:40:34+00:00",
+                      "headline": "Draw was a fair result - Pochettino",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-27T14:40:34+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90948097": {
+                              "height": 360,
+                              "width": 640,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/134EC/production/_90948097_p0461w37.jpg",
+                              "altText": "Mauricio Pochettino",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37204793": {
+                              "externalId": "p0461vnm",
+                              "caption": "Draw was a fair result - Pochettino",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "Tottenham",
+                        "id": "101440",
+                        "externalUrl": "/sport/football/teams/tottenham-hotspur",
+                        "urlIdentifier": "/sport/football/premier-league/tottenham"
+                      },
+                      "summary": "Tottenham manager Mauricio Pochettino says his side's 1-1 draw against Liverpool was a \"fair result\".",
+                      "type": "MAP"
+                    },
+                    {
+                      "assetId": "37204786",
+                      "assetUri": "/sport/football/37204786",
+                      "firstCreated": "2016-08-27T12:40:57+00:00",
+                      "headline": "Jake Livermore's emotional Football Focus interview",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-27T12:40:57+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90948093": {
+                              "height": 360,
+                              "width": 640,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/98AC/production/_90948093_p0461p8m.jpg",
+                              "altText": "Jake Livermore",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          },
+                          "index-thumbnail": {
+                            "90947980": {
+                              "height": 180,
+                              "width": 320,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/230E/production/_90947980_p0461p8m.jpg",
+                              "altText": "Jake Livermore",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37204788": {
+                              "externalId": "p0461nqy",
+                              "caption": "Jake Livermore: Hull midfielder says testing positive for cocaine saved career",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "Football",
+                        "id": "100830",
+                        "uri": "/sport/football",
+                        "urlIdentifier": "/sport/football"
+                      },
+                      "summary": "Hull City midfielder Jake Livermore says his positive test for cocaine came as a relief and was the \"get out of jail free card\" he needed to start to come to terms with the death of his son.",
+                      "type": "MAP"
+                    },
+                    {
+                      "assetTypeCode": "PRO",
+                      "avRestriction": "Global",
+                      "contentType": "Video",
+                      "firstCreated": "2016-08-20T02:42:52+00:00",
+                      "lastUpdated": "2016-08-20T02:42:52+00:00",
+                      "links": {
+                        "desktop": "http://www.bbc.co.uk/iplayer/episode/b07qqwry/the-premier-league-show-25082016",
+                        "highweb": "http://www.bbc.co.uk/iplayer/episode/b07qqwry/the-premier-league-show-25082016"
+                      },
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90904090": {
+                              "height": 512,
+                              "width": 911,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/2350/production/_90904090_kloppandlineker.png",
+                              "altText": "Jurgen Klopp and Gary Lineker",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          }
+                        }
+                      },
+                      "options": {},
+                      "summary": "Weekly magazine programme featuring in-depth interviews with the biggest Premier League stars.",
+                      "title": "Watch: The Premier League Football Show",
+                      "type": "LINK"
+                    },
+                    {
+                      "assetId": "37200541",
+                      "assetUri": "/sport/scotland/37200541",
+                      "firstCreated": "2016-08-26T23:12:40+00:00",
+                      "headline": "Highlights: Kilmarnock 1-1 Rangers",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-26T23:12:40+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90945815": {
+                              "height": 549,
+                              "width": 976,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/CA8E/production/_90945815_p0460c8w.jpg",
+                              "altText": "Kilmarnock v Rangers",
+                              "copyrightHolder": "SNS"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37200542": {
+                              "externalId": "p0460bwh",
+                              "caption": "Scottish Premiership highlights: Kilmarnock 1-1 Rangers",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "Scotland",
+                        "id": "100850",
+                        "uri": "/sport/scotland",
+                        "urlIdentifier": "/sport/scotland"
+                      },
+                      "summary": "Ten-man Kilmarnock and Rangers earn a point apiece in an incident-packed Premiership match at Rugby Park.",
+                      "type": "MAP"
+                    },
+                    {
+                      "assetTypeCode": "PRO",
+                      "avRestriction": "Global",
+                      "contentType": "Audio",
+                      "firstCreated": "2016-08-26T22:51:48+00:00",
+                      "lastUpdated": "2016-08-26T22:51:48+00:00",
+                      "links": {
+                        "desktop": "http://www.bbc.co.uk/programmes/p04605sm",
+                        "highweb": "http://www.bbc.co.uk/programmes/p04605sm"
+                      },
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90945466": {
+                              "height": 1152,
+                              "width": 2048,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/10396/production/_90945466_gettyimagesd.jpg",
+                              "altText": "Maurico Pochettino",
+                              "copyrightHolder": "Getty Images"
+                            }
+                          }
+                        }
+                      },
+                      "options": {},
+                      "summary": "Jermaine Jenas says Tottenham manager Mauricio Pochettino was Manchester United's first choice to replace Louis van Gaal.",
+                      "title": "5 live’s Football Daily",
+                      "type": "LINK"
+                    },
+                    {
+                      "assetId": "37184386",
+                      "assetUri": "/sport/football/37184386",
+                      "firstCreated": "2016-08-25T12:20:12+00:00",
+                      "headline": "Robbie Keane's favourite Republic moment",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-25T12:20:12+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90919435": {
+                              "height": 1152,
+                              "width": 2048,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/D0F3/production/_90919435_robbiekeane.jpg",
+                              "altText": "Robbie Keane celebrates",
+                              "copyrightHolder": "Laurence Griffiths"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37186003": {
+                              "externalId": "p045tb9n",
+                              "caption": "Robbie Keane's favourite Ireland goal v Germany - World Cup 2002",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "R. of Ireland",
+                        "id": "101902",
+                        "externalUrl": "/sport/football/teams/republic-of-ireland",
+                        "urlIdentifier": "/sport/football/international/republic-of-ireland"
+                      },
+                      "summary": "Relive Robbie Keane's best memory from his Republic of Ireland career.",
+                      "type": "MAP"
+                    },
+                    {
+                      "assetId": "37196539",
+                      "assetUri": "/sport/football/37196539",
+                      "firstCreated": "2016-08-26T11:49:07+00:00",
+                      "headline": "'Strange' transfer market more difficult than ever - Wenger",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-26T11:49:07+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90938299": {
+                              "height": 576,
+                              "width": 1024,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/183D3/production/_90938299_p045y339.jpg",
+                              "caption": "Transfers more difficult than ever - Wenger",
+                              "altText": "Transfers more difficult than ever - Wenger",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37196545": {
+                              "externalId": "p045y2f5",
+                              "caption": "'Strange' transfer market more difficult than ever - Wenger",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "Arsenal",
+                        "id": "101438",
+                        "externalUrl": "/sport/football/teams/arsenal",
+                        "urlIdentifier": "/sport/football/premier-league/arsenal"
+                      },
+                      "summary": "Arsenal manager Arsene Wenger describes this season's transfer window as \"more difficult than ever\" and predicts a \"frenetic\" last few days of business.",
+                      "type": "MAP"
+                    },
+                    {
+                      "assetId": "37194057",
+                      "assetUri": "/sport/football/37194057",
+                      "firstCreated": "2016-08-26T10:32:17+00:00",
+                      "headline": "Zaza's infamous penalty miss",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-26T10:32:17+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90937289": {
+                              "height": 576,
+                              "width": 1024,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/17FE1/production/_90937289_gettyimages-544248372.jpg",
+                              "altText": "Italy's Simone Zaza",
+                              "copyrightHolder": "Alexander Demianchuk"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37194058": {
+                              "externalId": "p045xs1j",
+                              "caption": "Zaza's infamous penalty miss for Italy in the Euro 2016 quarter-finals",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "West Ham",
+                        "id": "101491",
+                        "externalUrl": "/sport/football/teams/west-ham-united",
+                        "urlIdentifier": "/sport/football/premier-league/west-ham"
+                      },
+                      "summary": "Re-live Simone Zaza's infamous penalty miss for Italy against Germany in the Euro 2016 quarter-finals, as he is linked with West Ham.",
+                      "type": "MAP"
+                    },
+                    {
+                      "assetId": "37194060",
+                      "assetUri": "/sport/football/37194060",
+                      "firstCreated": "2016-08-26T13:02:37+00:00",
+                      "headline": "Trott's Premier League predictions: I'm always Spurs on Fifa",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-26T13:02:37+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90937291": {
+                              "height": 360,
+                              "width": 640,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/4B49/production/_90937291_p045ydhs.jpg",
+                              "altText": "Laura Trott's Premier League Predictions",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37194825": {
+                              "externalId": "p045ykmz",
+                              "caption": "Trott's Premier League predictions for Football Focus",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "Premier League",
+                        "id": "101344",
+                        "uri": "/sport/football/premier-league",
+                        "urlIdentifier": "/sport/football/premier-league"
+                      },
+                      "summary": "Four-time Olympic cycling champion and Tottenham fan Laura Trott gives her predictions on the weekend's Premier League fixtures.",
+                      "type": "MAP"
+                    },
+                    {
+                      "assetId": "37196546",
+                      "assetUri": "/sport/football/37196546",
+                      "firstCreated": "2016-08-26T16:09:51+00:00",
+                      "headline": "Difficult for Schweinsteiger - Mourinho",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-26T16:09:51+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90938301": {
+                              "height": 576,
+                              "width": 1024,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/288F/production/_90938301_p045z7qf.jpg",
+                              "caption": "'Very very difficult for Schweinsteiger to play'",
+                              "altText": "'Very very difficult for Schweinsteiger to play'",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37200899": {
+                              "externalId": "p045z7gt",
+                              "caption": "Very difficult for Schweinsteiger to play - Mourinho",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "Man Utd",
+                        "id": "101436",
+                        "externalUrl": "/sport/football/teams/manchester-united",
+                        "urlIdentifier": "/sport/football/premier-league/man-utd"
+                      },
+                      "summary": "Manchester United manager Jose Mourinho insists will be \"very difficult\" for out of favour midfielder Bastian Schweinsteiger to play this season.",
+                      "type": "MAP"
+                    },
+                    {
+                      "assetId": "37197024",
+                      "assetUri": "/sport/football/37197024",
+                      "firstCreated": "2016-08-26T16:19:31+00:00",
+                      "headline": "Barcelona tie will be special - Guardiola",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-26T16:19:31+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90943191": {
+                              "height": 1080,
+                              "width": 1920,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/4ABE/production/_90943191_guardiolastill.jpg",
+                              "altText": "Pep Guardiola",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37197027": {
+                              "externalId": "p045z7gy",
+                              "caption": "Barcelona tie will be 'special', says Guardiola",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "Man City",
+                        "id": "101443",
+                        "externalUrl": "/sport/football/teams/manchester-city",
+                        "urlIdentifier": "/sport/football/premier-league/man-city"
+                      },
+                      "summary": "Manchester City boss Pep Guardiola says it will be \"special\" to face his former club Barcelona in the Champions League.",
+                      "type": "MAP"
+                    }
+                  ],
+                  "semanticGroupName": "AV reports"
+                },
+                {
+                  "type": "type-a-media-list-1",
+                  "title": "Video & Audio",
+                  "items": [
+                    {
+                      "assetTypeCode": "PRO",
+                      "avRestriction": "Global",
+                      "contentType": "Video",
+                      "firstCreated": "2016-08-26T15:49:50+00:00",
+                      "lastUpdated": "2016-08-26T15:49:50+00:00",
+                      "links": {
+                        "enhancedmobile": "http://m.bbc.co.uk/iplayer/episode/b07pqpfp/scotlands-game-1-i-play-for-money",
+                        "desktop": "http://www.bbc.co.uk/iplayer/episode/b07pqpfp/scotlands-game-1-i-play-for-money",
+                        "highweb": "http://www.bbc.co.uk/iplayer/episode/b07pqpfp/scotlands-game-1-i-play-for-money",
+                        "mobile": "http://m.bbc.co.uk/iplayer/episode/b07pqpfp/scotlands-game-1-i-play-for-money"
+                      },
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90943187": {
+                              "height": 405,
+                              "width": 720,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/13136/production/_90943187_fa.jpg",
+                              "altText": "Hearts",
+                              "copyrightHolder": "BBC"
+                            }
+                          }
+                        }
+                      },
+                      "options": {},
+                      "summary": "In the first episode of a documentary series charting the changes in Scottish football, discover how social changes thirty years ago affected the game.",
+                      "title": "Scotland's Game - Episode One",
+                      "type": "LINK"
+                    },
+                    {
+                      "assetId": "37194054",
+                      "assetUri": "/sport/football/37194054",
+                      "firstCreated": "2016-08-26T08:35:20+00:00",
+                      "headline": "Failed drugs test was a relief - Livermore",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-26T08:35:20+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90935334": {
+                              "height": 576,
+                              "width": 1024,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/A959/production/_90935334_p045xfxd.jpg",
+                              "altText": "Hull City's Jake Livermore",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37194055": {
+                              "externalId": "p045xfjp",
+                              "caption": "Jake Livermore: Failing drugs test saved my Hull City career",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "Hull",
+                        "id": "101478",
+                        "externalUrl": "/sport/football/teams/hull-city",
+                        "urlIdentifier": "/sport/football/premier-league/hull"
+                      },
+                      "summary": "Jake Livermore says his positive test for cocaine began the healing process after the death of his son.",
+                      "type": "MAP"
+                    },
+                    {
+                      "assetTypeCode": "PRO",
+                      "avRestriction": "Global",
+                      "contentType": "Audio",
+                      "firstCreated": "2016-08-25T22:53:56+00:00",
+                      "lastUpdated": "2016-08-25T22:53:56+00:00",
+                      "links": {
+                        "desktop": "http://www.bbc.co.uk/programmes/p045vz48",
+                        "highweb": "http://www.bbc.co.uk/programmes/p045vz48"
+                      },
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90933827": {
+                              "height": 1152,
+                              "width": 2048,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/11C81/production/_90933827_sergio_aguero_getty.jpg",
+                              "altText": "Sergio Aguero",
+                              "copyrightHolder": "Getty Images"
+                            }
+                          }
+                        }
+                      },
+                      "options": {},
+                      "summary": "Former Wales striker John Hartson and ex-Scotland defender Matt Elliott react to the draw for the group stages of the Champions League.",
+                      "title": "'Man City well equipped to beat Barcelona'",
+                      "type": "LINK"
+                    },
+                    {
+                      "assetId": "37191455",
+                      "assetUri": "/sport/football/37191455",
+                      "firstCreated": "2016-08-25T18:30:40+00:00",
+                      "headline": "Klopp 'doesn't want to play Sturridge wide'",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-25T18:30:40+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90932502": {
+                              "height": 261,
+                              "width": 464,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/502B/production/_90932502_p045vnkj.jpg",
+                              "altText": "Jurgen Klopp",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37191457": {
+                              "externalId": "p045vnf7",
+                              "caption": "I don't want to play Sturridge on the wing - Klopp",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "Football",
+                        "id": "100830",
+                        "uri": "/sport/football",
+                        "urlIdentifier": "/sport/football"
+                      },
+                      "summary": "Liverpool manager Jurgen Klopp says he does not want to play Daniel Sturridge as a wide player after the striker said he was unhappy playing in that position.",
+                      "type": "MAP"
+                    },
+                    {
+                      "assetId": "37189311",
+                      "assetUri": "/sport/football/37189311",
+                      "firstCreated": "2016-08-25T16:57:45+00:00",
+                      "headline": "No Everton interest in Hart - Koeman",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-25T16:57:45+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90922796": {
+                              "height": 360,
+                              "width": 640,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/1105A/production/_90922796_p045v08f.jpg",
+                              "caption": "Ronald Koeman",
+                              "altText": "Ronald Koeman",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          },
+                          "index-thumbnail": {
+                            "90922798": {
+                              "height": 180,
+                              "width": 320,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/15E7A/production/_90922798_p045v08f.jpg",
+                              "caption": "Ronald Koeman",
+                              "altText": "Ronald Koeman",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37189313": {
+                              "externalId": "p045tzqv",
+                              "caption": "Everton not interested in Hart - Koeman",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "Everton",
+                        "id": "101446",
+                        "externalUrl": "/sport/football/teams/everton",
+                        "urlIdentifier": "/sport/football/premier-league/everton"
+                      },
+                      "summary": "Everton manager Ronald Koeman says he has \"no interest\" in signing goalkeeper Joe Hart from Manchester City.",
+                      "type": "MAP"
+                    },
+                    {
+                      "assetId": "37186005",
+                      "assetUri": "/sport/football/37186005",
+                      "firstCreated": "2016-08-25T14:49:43+00:00",
+                      "headline": "Super League 'would lead to war'",
+                      "language": "en-gb",
+                      "lastUpdated": "2016-08-25T14:49:43+00:00",
+                      "media": {
+                        "images": {
+                          "index": {
+                            "90918572": {
+                              "height": 576,
+                              "width": 1024,
+                              "originCode": "cpsprodpb",
+                              "href": "http://c.files.bbci.co.uk/6BBD/production/_90918572_p045tsz7.jpg",
+                              "altText": "Aleksander Ceferin",
+                              "copyrightHolder": "BBC Sport"
+                            }
+                          }
+                        },
+                        "videos": {
+                          "primary": {
+                            "37186006": {
+                              "externalId": "p045tspj",
+                              "caption": "Super League 'would lead to war'",
+                              "entityType": "Clip"
+                            }
+                          }
+                        }
+                      },
+                      "mediaType": "Video",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "section": {
+                        "name": "Football",
+                        "id": "100830",
+                        "uri": "/sport/football",
+                        "urlIdentifier": "/sport/football"
+                      },
+                      "summary": "Aleksander Ceferin insists any closed European Super League is \"out of the question\".",
+                      "type": "MAP"
+                    }
+                  ],
+                  "semanticGroupName": "AV highlights"
+                },
+                {
+                  "type": "type-a-container-comment-1",
+                  "title": "Comment and analysis",
+                  "groups": [
+                    {
+                      "type": "type-a-comment-list-1",
+                      "title": "Comment & Analysis",
+                      "strapline": {
+                        "name": "Features & Analysis"
+                      },
+                      "maxRelatedLinks": 1,
+                      "items": [
+                        {
+                          "assetId": "37188459",
+                          "assetUri": "/sport/football/37188459",
+                          "firstCreated": "2016-08-26T05:14:00+00:00",
+                          "hasShortForm": true,
+                          "headline": "Failing drugs test saved me - Livermore",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-26T05:14:00+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90924656": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/1006A/production/_90924656_livermore_rex.jpg",
+                                  "altText": "Jake Livermore",
+                                  "copyrightHolder": "Rex Features"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Hull",
+                            "id": "101478",
+                            "externalUrl": "/sport/football/teams/hull-city",
+                            "urlIdentifier": "/sport/football/premier-league/hull"
+                          },
+                          "summary": "Hull's Jake Livermore says his positive test for cocaine in 2015 was a \"get out of jail free card\" that turned his life around.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37178108",
+                          "assetUri": "/sport/football/37178108",
+                          "byline": {
+                            "name": "By Andy West",
+                            "persons": [
+                              {
+                                "name": "Andy West",
+                                "function": "Spanish football writer",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "Spanish football writer"
+                          },
+                          "firstCreated": "2016-08-25T12:48:48+00:00",
+                          "headline": "The big three, Cucumbers & Jimmy Greaves",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-25T12:48:48+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90903831": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/3606/production/_90903831_laliga.jpg",
+                                  "altText": "Lionel Messi, Neymar, Cristiano Ronaldo & Kevin Gameiro",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "European Football",
+                            "id": "102120",
+                            "uri": "/sport/football/european",
+                            "urlIdentifier": "/sport/football/european"
+                          },
+                          "summary": "Barcelona, Atletico Madrid, Real Madrid, intriguing managerial changes, a bizarre nickname and a draconian rule change - your La Liga guide.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37169880",
+                          "assetUri": "/sport/football/37169880",
+                          "byline": {
+                            "name": "By Simon Stone",
+                            "persons": [
+                              {
+                                "name": "Simon Stone",
+                                "function": "BBC Sport",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Sport"
+                          },
+                          "firstCreated": "2016-08-24T17:49:52+00:00",
+                          "headline": "Salford's owners Still Out Of Their League",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-24T17:49:52+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90911243": {
+                                  "height": 360,
+                                  "width": 640,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/85A3/production/_90911243_scholes.jpg",
+                                  "altText": "Paul Scholes",
+                                  "copyrightHolder": "Chris Brunskill"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Football",
+                            "id": "100830",
+                            "uri": "/sport/football",
+                            "urlIdentifier": "/sport/football"
+                          },
+                          "summary": "Manchester United's famed 'Class of 92' are Still Out Of Their League at National League North club Salford City",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37168104",
+                          "assetUri": "/sport/scotland/37168104",
+                          "byline": {
+                            "name": "By Tom English",
+                            "persons": [
+                              {
+                                "name": "Tom English",
+                                "correspondentId": "tomenglish",
+                                "url": "/sport/correspondents/tomenglish",
+                                "function": "BBC Scotland",
+                                "thumbnail": "http://c.files.bbci.co.uk/173EA/production/_90901259_tomenglish200bw.jpg",
+                                "originCode": "CPSPRODPB"
+                              }
+                            ],
+                            "title": "BBC Scotland"
+                          },
+                          "firstCreated": "2016-08-23T16:29:21+00:00",
+                          "headline": "Scotland's Game: Money, egos and Messiahs",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-23T16:29:21+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90891395": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/E7B7/production/_90891395_only_mo_johnston_signing_sns_730872.jpg",
+                                  "altText": "Mo Johnston and Graeme Souness",
+                                  "copyrightHolder": "SNS"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Scotland",
+                            "id": "100850",
+                            "uri": "/sport/scotland",
+                            "urlIdentifier": "/sport/scotland"
+                          },
+                          "summary": "Tom English previews a new four-part documentary series about Scottish football, Scotland's Game.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "36940930",
+                          "assetUri": "/sport/36940930",
+                          "firstCreated": "2016-08-01T09:18:01+00:00",
+                          "headline": "Transfers - August 2016",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-09T05:06:55+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90720347": {
+                                  "height": 549,
+                                  "width": 976,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/1223E/production/_90720347_paul_pogba_getty.jpg",
+                                  "altText": "Paul Pogba",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Football",
+                            "id": "101738",
+                            "urlIdentifier": "/sport/football/transfers"
+                          },
+                          "summary": "Track all the latest signings as they happen in England, Scotland and across the world.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37108162",
+                          "assetUri": "/sport/football/37108162",
+                          "firstCreated": "2016-08-17T11:21:48+00:00",
+                          "headline": "Manager ins and outs - August 2016",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-17T11:21:48+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90820077": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/12CCA/production/_90820077_koeman.jpg",
+                                  "altText": "Ronald Koeman",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Football",
+                            "id": "100830",
+                            "uri": "/sport/football",
+                            "urlIdentifier": "/sport/football"
+                          },
+                          "summary": "Track the managerial ins and outs and a list of every boss in the top five leagues in England and the Scottish Premiership.",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "Comment stories"
+                    }
+                  ],
+                  "semanticGroupName": "Comment and analysis"
+                },
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "League by league include",
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/shared/app/sport/football/digest/leagues",
+                        "highweb": "/shared/app/sport/football/digest/leagues"
+                      },
+                      "options": {},
+                      "title": "League by league digest include",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "League by league include"
+                },
+                {
+                  "type": "type-a-container-digest-1",
+                  "title": "Around the UK",
+                  "strapline": {
+                    "name": "Around the UK"
+                  },
+                  "groups": [
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Nation digest 1",
+                      "strapline": {
+                        "name": "SCOTTISH FOOTBALL",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/0/football/scottish/",
+                          "highweb": "http://www.bbc.co.uk/sport/0/football/scottish/"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetId": "37139464",
+                          "assetUri": "/sport/football/37139464",
+                          "byline": {
+                            "name": "By Richard Wilson",
+                            "persons": [
+                              {
+                                "name": "Richard Wilson",
+                                "function": "BBC Scotland",
+                                "thumbnail": "http://news.bbcimg.co.uk/media/images/74284000/jpg/_74284950_img_1624.jpg",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Scotland at Firhill"
+                          },
+                          "firstCreated": "2016-08-26T22:58:18+00:00",
+                          "hasShortForm": true,
+                          "headline": "Partick Thistle 1-2 Heart of Midlothian",
+                          "headlineIncludeUrl": "/shared/app/sport/football/oppm/header/EFBO856286",
+                          "isOppm": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T15:50:49+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90949622": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/58A6/production/_90949622_watt.jpg",
+                                  "altText": "Tony Watt",
+                                  "copyrightHolder": "SNS"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Scottish Prem",
+                            "id": "101407",
+                            "externalUrl": "/sport/football/scottish-premier",
+                            "urlIdentifier": "/sport/football/scottish-premiership"
+                          },
+                          "summary": "Tony Watt scores his first goal for Hearts to give the visitors victory over Partick Thistle at Firhill.",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "Nation digest 1"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Nation digest 2",
+                      "strapline": {
+                        "name": "WELSH FOOTBALL",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/0/football/welsh/",
+                          "highweb": "http://www.bbc.co.uk/sport/0/football/welsh/"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetId": "37138609",
+                          "assetUri": "/sport/football/37138609",
+                          "byline": {
+                            "name": "By Dafydd Pritchard",
+                            "persons": [
+                              {
+                                "name": "Dafydd Pritchard",
+                                "function": "BBC Wales Sport at Cardiff City Stadium",
+                                "originCode": "MCS"
+                              }
+                            ],
+                            "title": "BBC Wales Sport at Cardiff City Stadium"
+                          },
+                          "firstCreated": "2016-08-26T10:40:48+00:00",
+                          "hasShortForm": true,
+                          "headline": "Cardiff City 0-1 Reading",
+                          "headlineIncludeUrl": "/shared/app/sport/football/oppm/header/EFBO858182",
+                          "isOppm": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T15:57:07+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90949888": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/15B3E/production/_90949888_cdf_270816_ge_cardiff_v_reading_37.jpg",
+                                  "altText": "Reading players celebrate with Yann Kermorgant after his late winner",
+                                  "copyrightHolder": "Huw Evans picture agency"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Championship",
+                            "id": "101345",
+                            "externalUrl": "/sport/0/football/championship",
+                            "urlIdentifier": "/sport/football/championship"
+                          },
+                          "summary": "Reading take all three points at Cardiff City Stadium thanks to Yann Kermorgant's late strike in a scrappy Championship encounter.",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "Nation digest 2"
+                    },
+                    {
+                      "type": "type-a-headline-list-3",
+                      "title": "Nation digest 3",
+                      "strapline": {
+                        "name": "IRISH FOOTBALL",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/0/football/irish/",
+                          "highweb": "http://www.bbc.co.uk/sport/0/football/irish/"
+                        },
+                        "type": "LINK"
+                      },
+                      "items": [
+                        {
+                          "assetId": "37206515",
+                          "assetUri": "/sport/football/37206515",
+                          "firstCreated": "2016-08-27T16:32:27+00:00",
+                          "hasShortForm": true,
+                          "headline": "Crues go top as Linfield are held",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T16:32:27+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90950065": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/DAC5/production/_90950065_beverland.jpg",
+                                  "altText": "Howard Beverland scored for both teams in the Seaview contest",
+                                  "copyrightHolder": "Stephen Hamilton"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Irish Football",
+                            "id": "101366",
+                            "uri": "/sport/football/irish",
+                            "urlIdentifier": "/sport/football/irish"
+                          },
+                          "summary": "Crusaders beat Portadown to move back to the top of the Irish Premiership as Linfield were held by Dungannon Swifts.",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "Nation digest 3"
+                    }
+                  ],
+                  "semanticGroupName": "Around the UK"
+                }
+              ],
+              "semanticGroupName": "AV/comments"
+            },
+            {
+              "type": "type-a-container-secondary-1",
+              "title": "River",
+              "groups": [
+                {
+                  "type": "type-a-hyperpuff-1",
+                  "title": "Nations links hyper (DO NOT REMOVE OR MOVE!)",
+                  "items": [
+                    {
+                      "assetId": "16143677",
+                      "assetUri": "/sport/football/16143677",
+                      "firstCreated": "2011-12-12T12:44:49+00:00",
+                      "headline": "Around the UK",
+                      "language": "en-gb",
+                      "lastUpdated": "2012-04-24T10:31:42+00:00",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "overtypedHeadline": "Around the UK map",
+                      "type": "HYP"
+                    }
+                  ],
+                  "semanticGroupName": "Nations links hyper"
+                },
+                {
+                  "type": "type-a-hyperpuff-1",
+                  "title": "BBC Programme links hyper",
+                  "strapline": {
+                    "name": "Programmes"
+                  },
+                  "items": [
+                    {
+                      "assetId": "16160283",
+                      "assetUri": "/sport/football/16160283",
+                      "firstCreated": "2011-12-13T11:35:39+00:00",
+                      "headline": "Programme links hyper - Football",
+                      "language": "en-gb",
+                      "lastUpdated": "2015-07-24T09:19:27+00:00",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "overtypedHeadline": "Football programmes",
+                      "type": "HYP"
+                    }
+                  ],
+                  "semanticGroupName": "Programme links hyper"
+                },
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "Downloads include",
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/inc/specials/sport/hi/sport/downloads/football/podcast-downloads.inc",
+                        "highweb": "/inc/specials/sport/hi/sport/downloads/football/podcast-downloads.inc"
+                      },
+                      "options": {},
+                      "title": "BBC Football Podcasts",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "Downloads include"
+                },
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "BBC RSS feeds include",
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/inc/specials/sport/hi/sport/rss/football/rss.inc",
+                        "highweb": "/inc/specials/sport/hi/sport/rss/football/rss.inc"
+                      },
+                      "options": {},
+                      "title": "BBC Football RSS feeds",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "RSS feeds include"
+                }
+              ],
+              "semanticGroupName": "River"
+            }
+          ],
+          "semanticGroupName": "STRUCTURAL CONTAINER"
+        },
+        {
+          "type": "type-a-container-tertiary-1",
+          "title": "Events",
+          "groups": [
+            {
+              "type": "type-a-postbox-1",
+              "title": "Gossip promo (AUTO UPDATES, DO NOT REMOVE PROMO!)",
+              "maxRelatedLinks": 0,
+              "items": [
+                {
+                  "assetTypeCode": "PRO",
+                  "contentType": "Text",
+                  "firstCreated": "2012-01-24T11:38:09+00:00",
+                  "lastUpdated": "2013-08-02T15:26:30+00:00",
+                  "links": {
+                    "desktop": "http://www.bbc.co.uk/sport/football/gossip/",
+                    "highweb": "http://www.bbc.co.uk/sport/football/gossip/"
+                  },
+                  "media": {
+                    "images": {
+                      "index": {
+                        "81337182": {
+                          "height": 351,
+                          "width": 624,
+                          "originCode": "mcs",
+                          "href": "http://news.bbcimg.co.uk/media/images/81337000/jpg/_81337182_gossip_645.jpg",
+                          "altText": "Gossip column logo",
+                          "copyrightHolder": "BBC"
+                        }
+                      },
+                      "index-thumbnail": {
+                        "81337184": {
+                          "height": 180,
+                          "width": 320,
+                          "originCode": "mcs",
+                          "href": "http://news.bbcimg.co.uk/media/images/81337000/jpg/_81337184_gossip_645.jpg",
+                          "altText": "Gossip column logo",
+                          "copyrightHolder": "BBC"
+                        }
+                      }
+                    }
+                  },
+                  "options": {},
+                  "title": "Today's football gossip",
+                  "type": "LINK"
+                }
+              ],
+              "semanticGroupName": "Gossip promo"
+            },
+            {
+              "type": "type-a-data-feed-1",
+              "title": "Football Scores/Results/Fixtures include",
+              "strapline": {
+                "name": "Scores, Results & Fixtures",
+                "links": {
+                  "desktop": "/inc/specials/sport/hi/sport/pal-wrapper/collated-accordion.inc?selectedCompetitionId=119001943",
+                  "highweb": "/inc/specials/sport/hi/sport/pal-wrapper/collated-accordion.inc?selectedCompetitionId=119001943"
+                },
+                "type": "LINK"
+              },
+              "items": [
+                {
+                  "links": {
+                    "desktop": "/inc/specials/sport/hi/sport/pal-wrapper/collated-accordion.inc?selectedCompetitionId=118999958",
+                    "highweb": "/inc/specials/sport/hi/sport/pal-wrapper/collated-accordion.inc?selectedCompetitionId=118999958"
+                  },
+                  "options": {},
+                  "title": "Scores, results & fixtures",
+                  "type": "INCLUDE"
+                }
+              ],
+              "semanticGroupName": "League table include"
+            },
+            {
+              "type": "type-a-data-feed-1",
+              "title": "Tables include",
+              "items": [
+                {
+                  "links": {
+                    "desktop": "/shared/app/sport/football/league-tables/competitions/premier-league",
+                    "highweb": "/shared/app/sport/football/league-tables/competitions/premier-league"
+                  },
+                  "options": {},
+                  "title": "Latest tables",
+                  "type": "INCLUDE"
+                }
+              ],
+              "semanticGroupName": "Stats include 2"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Radio commentaries hyper",
+              "items": [
+                {
+                  "assetId": "19182637",
+                  "assetUri": "/sport/football/19182637",
+                  "firstCreated": "2012-08-08T13:18:22+00:00",
+                  "headline": "Football TV/radio commentaries hyper",
+                  "language": "en-gb",
+                  "lastUpdated": "2016-02-18T12:24:28+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Radio coverage hyper"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Postbox promo hyper 1",
+              "items": [
+                {
+                  "assetId": "29854265",
+                  "assetUri": "/sport/football/29854265",
+                  "firstCreated": "2014-10-31T15:12:30+00:00",
+                  "headline": "Watch FA Cup goals & highlights",
+                  "language": "en-gb",
+                  "lastUpdated": "2016-01-29T20:18:44+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Special promotion hyper 1"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Postbox promo hyper 2",
+              "items": [
+                {
+                  "assetId": "18985233",
+                  "assetUri": "/sport/18985233",
+                  "firstCreated": "2012-07-25T11:35:12+00:00",
+                  "headline": "Sport Promo Module",
+                  "language": "en-gb",
+                  "lastUpdated": "2016-02-15T14:10:19+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Special promotion hyper 2"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Event stats hyper (NOT NEEDED ON FOOTBALL)",
+              "items": [
+                {
+                  "links": {
+                    "desktop": "/shared/app/sportui/things-to-do?sport=football",
+                    "highweb": "/shared/app/sportui/things-to-do?sport=football"
+                  },
+                  "options": {},
+                  "title": "Things To Do include",
+                  "type": "INCLUDE"
+                }
+              ],
+              "semanticGroupName": "Event stats hyper"
+            }
+          ],
+          "semanticGroupName": "Events"
+        }
+      ],
+      "options": {
+        "allowAdvertising": true
+      },
+      "language": "en-gb",
+      "id": "http://www.bbc.co.uk/asset/b5c53246-3b2a-e059-e040-850a02846523/desktop/domestic",
+      "assetUri": "/sport/football",
+      "platform": "desktop",
+      "audience": "domestic",
+      "assetId": "12153621",
+      "section": {
+        "name": "Football",
+        "id": "100830",
+        "uri": "/sport/football",
+        "urlIdentifier": "/sport/football"
+      },
+      "site": {
+        "name": "BBC Sport",
+        "code": "sport-v6",
+        "urlIdentifier": "/sport",
+        "frontPageUri": "/sport/front-page"
+      },
+      "primaryConceptId": "http://www.bbc.co.uk/things/ba6e1118-f874-054e-b159-b797c16e9250#id",
+      "workerCallingCard": "app057.back.live.cwwtf.local-54",
+      "iStatsCounterName": "sport.football.page"
+    }
+  ]
+}

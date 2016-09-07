@@ -1,0 +1,679 @@
+{
+  "results": [
+    {
+      "title": "Golf",
+      "type": "IDX",
+      "lastUpdated": "2016-08-27T07:19:18+00:00",
+      "firstCreated": "2011-01-10T12:45:22+00:00",
+      "firstPublished": "2011-12-12T15:15:15+00:00",
+      "lastPublished": "2016-08-27T16:43:03+00:00",
+      "changeQueueId": "285206231",
+      "changeQueueTimestamp": "2016-08-27T16:42:50+00:00",
+      "groups": [
+        {
+          "type": "type-a-container-structural-3",
+          "title": "STRUCTURAL CONTAINER",
+          "groups": [
+            {
+              "type": "type-a-container-structural-4",
+              "title": "Top stories",
+              "groups": [
+                {
+                  "type": "type-a-container-primary-4",
+                  "title": "Standard news promotion",
+                  "groups": [
+                    {
+                      "type": "type-a-top-story-1",
+                      "title": "Standard Top Lead",
+                      "maxRelatedLinks": 0,
+                      "items": [
+                        {
+                          "assetId": "37203227",
+                          "assetUri": "/sport/golf/37203227",
+                          "firstCreated": "2016-08-27T07:04:31+00:00",
+                          "hasShortForm": true,
+                          "headline": "World number 419 Meadow second in Canada",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T07:04:31+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90946186": {
+                                  "height": 576,
+                                  "width": 1024,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/10A44/production/_90946186_stephanie_meadow_getty.jpg",
+                                  "altText": "Stephanie Meadow",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "prominence": "standard",
+                          "section": {
+                            "name": "Golf",
+                            "id": "100833",
+                            "uri": "/sport/golf",
+                            "urlIdentifier": "/sport/golf"
+                          },
+                          "summary": "Northern Ireland's world number 419 Stephanie Meadow is in a tie for second halfway through the Canadian Women's Open.",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "Standard top story"
+                    },
+                    {
+                      "type": "type-a-container-story-pair-1",
+                      "title": "Secondary news promotion",
+                      "groups": [
+                        {
+                          "type": "type-a-story-1",
+                          "title": "Story/Live/Feature 2",
+                          "maxRelatedLinks": 0,
+                          "items": [
+                            {
+                              "assetId": "37201718",
+                              "assetUri": "/sport/golf/37201718",
+                              "firstCreated": "2016-08-26T22:48:05+00:00",
+                              "hasShortForm": true,
+                              "headline": "Reed takes two-stroke Barclays lead",
+                              "language": "en-gb",
+                              "lastUpdated": "2016-08-26T22:48:05+00:00",
+                              "media": {
+                                "images": {
+                                  "index": {
+                                    "90944919": {
+                                      "height": 1152,
+                                      "width": 2048,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/16728/production/_90944919_patrick_reed_getty1.jpg",
+                                      "altText": "Patrick Reed",
+                                      "copyrightHolder": "Getty Images"
+                                    }
+                                  }
+                                }
+                              },
+                              "options": {
+                                "isBreakingNews": false
+                              },
+                              "section": {
+                                "name": "Golf",
+                                "id": "100833",
+                                "uri": "/sport/golf",
+                                "urlIdentifier": "/sport/golf"
+                              },
+                              "summary": "Patrick Reed holds a two-stroke lead at the halfway stage of the Barclays tournament as Scotland's Martin Laird slips to tied fifth.",
+                              "type": "STY"
+                            }
+                          ],
+                          "semanticGroupName": "Story 2"
+                        },
+                        {
+                          "type": "type-a-story-1",
+                          "title": "Story/Live/Feature 3",
+                          "maxRelatedLinks": 0,
+                          "items": [
+                            {
+                              "assetId": "37199116",
+                              "assetUri": "/sport/golf/37199116",
+                              "firstCreated": "2016-08-26T16:57:02+00:00",
+                              "hasShortForm": true,
+                              "headline": "Dredge in lead heading into final round",
+                              "language": "en-gb",
+                              "lastUpdated": "2016-08-27T16:42:50+00:00",
+                              "media": {
+                                "images": {
+                                  "index": {
+                                    "90941328": {
+                                      "height": 1152,
+                                      "width": 2048,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/1418A/production/_90941328_gettyimages-595913764.jpg",
+                                      "altText": "Bradley Dredge",
+                                      "copyrightHolder": "Getty Images"
+                                    }
+                                  }
+                                }
+                              },
+                              "options": {
+                                "isBreakingNews": false
+                              },
+                              "section": {
+                                "name": "Golf",
+                                "id": "100833",
+                                "uri": "/sport/golf",
+                                "urlIdentifier": "/sport/golf"
+                              },
+                              "summary": "Wales' Bradley Dredge in a strong position to win first European Tour event in a decade heading into the final round in Denmark.",
+                              "type": "STY"
+                            }
+                          ],
+                          "semanticGroupName": "Story 3"
+                        }
+                      ],
+                      "semanticGroupName": "Secondary news promotion"
+                    }
+                  ],
+                  "semanticGroupName": "Standard news promotion"
+                },
+                {
+                  "type": "type-a-container-secondary-1",
+                  "title": "More news",
+                  "groups": [
+                    {
+                      "type": "type-a-headline-list-1",
+                      "title": "Headlines",
+                      "items": [
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2016-08-24T19:29:09+00:00",
+                          "lastUpdated": "2016-08-24T19:29:09+00:00",
+                          "links": {
+                            "desktop": "http://www.lpga.com/tournaments/cp-womens-open/leaderboard",
+                            "highweb": "http://www.lpga.com/tournaments/cp-womens-open/leaderboard"
+                          },
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90913234": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/A8DF/production/_90913234_gettyimages-591374440.jpg",
+                                  "altText": "Lydia Ko",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {},
+                          "summary": "Latest positions from the LPGA Tour event in Alberta, Canada where Lydia Ko is among the contenders. (External site)",
+                          "title": "Canadian Women's Open leaderboard",
+                          "type": "LINK"
+                        },
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2016-08-24T19:10:37+00:00",
+                          "lastUpdated": "2016-08-24T19:10:37+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/golf/uspga-tour/leaderboard",
+                            "highweb": "http://www.bbc.co.uk/sport/golf/uspga-tour/leaderboard"
+                          },
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90935461": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/4045/production/_90935461_mcilroy_getty.jpg",
+                                  "altText": "Rory McIlroy",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {},
+                          "summary": "Latest positions from the PGA Tour event in New York, featuring Rory McIlroy and Justin Rose.",
+                          "title": "The Barclays leaderboard",
+                          "type": "LINK"
+                        },
+                        {
+                          "assetTypeCode": "PRO",
+                          "contentType": "Text",
+                          "firstCreated": "2016-08-24T19:02:50+00:00",
+                          "lastUpdated": "2016-08-24T19:02:50+00:00",
+                          "links": {
+                            "desktop": "http://www.bbc.co.uk/sport/golf/european-tour/leaderboard",
+                            "highweb": "http://www.bbc.co.uk/sport/golf/european-tour/leaderboard"
+                          },
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90935456": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/FFAD/production/_90935456_dredge_getty.jpg",
+                                  "altText": "Bradley Dredge",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {},
+                          "summary": "Latest positions from the European Tour event in Denmark, where Bradley Dredge is among the contenders.",
+                          "title": "Denmark Open leaderboard",
+                          "type": "LINK"
+                        },
+                        {
+                          "assetId": "37192389",
+                          "assetUri": "/sport/golf/37192389",
+                          "firstCreated": "2016-08-25T23:01:42+00:00",
+                          "hasShortForm": true,
+                          "headline": "Scotland's Laird shares Barclays lead",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-26T05:48:54+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90933532": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/5BED/production/_90933532_martin_laird_getty.jpg",
+                                  "altText": "MArtin Laird",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Golf",
+                            "id": "100833",
+                            "uri": "/sport/golf",
+                            "urlIdentifier": "/sport/golf"
+                          },
+                          "summary": "Scotland's Martin Laird holds a share of the lead with Patrick Reed heading into the second round of The Barclays tournament.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37189882",
+                          "assetUri": "/sport/golf/37189882",
+                          "firstCreated": "2016-08-25T20:26:12+00:00",
+                          "hasShortForm": true,
+                          "headline": "Lewis misses out on first European 59",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-25T20:26:12+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90933124": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/A495/production/_90933124_tom_lewis_getty.jpg",
+                                  "altText": "Tom Lewis",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Golf",
+                            "id": "100833",
+                            "uri": "/sport/golf",
+                            "urlIdentifier": "/sport/golf"
+                          },
+                          "summary": "Tom Lewis misses out on the first 59 in European Tour history after carding three late bogeys at the Made in Denmark tournament.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37180211",
+                          "assetUri": "/sport/golf/37180211",
+                          "firstCreated": "2016-08-24T19:32:06+00:00",
+                          "hasShortForm": true,
+                          "headline": "McIlroy 'somewhat wrong' over Rio doubts",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-24T19:32:06+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90911217": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/1162B/production/_90911217_mcilroy1_getty.jpg",
+                                  "altText": "Rory McIlroy",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Golf",
+                            "id": "100833",
+                            "uri": "/sport/golf",
+                            "urlIdentifier": "/sport/golf"
+                          },
+                          "summary": "Rory McIlroy, who withdrew from the Olympics, says he is happy to be \"somewhat proven wrong\" by the success of the golf in Rio.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37149149",
+                          "assetUri": "/sport/olympics/37149149",
+                          "byline": {
+                            "name": "By Iain Carter",
+                            "persons": [
+                              {
+                                "name": "Iain Carter",
+                                "correspondentId": "iaincarter",
+                                "url": "/sport/correspondents/iaincarter",
+                                "function": "BBC golf correspondent",
+                                "thumbnail": "http://c.files.bbci.co.uk/5B0E/production/_90901332__90304091_iain-carter_203x152.jpg",
+                                "originCode": "CPSPRODPB"
+                              }
+                            ],
+                            "title": "BBC golf correspondent"
+                          },
+                          "firstCreated": "2016-08-21T17:07:40+00:00",
+                          "headline": "'Global TV triumph secures golf's future at Games'",
+                          "includeComments": true,
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-21T17:07:40+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90867018": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/13CB4/production/_90867018_gettyimages-592322232.jpg",
+                                  "altText": "Lydia Ko and Inbee Park at Rio 2016",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              },
+                              "index-thumbnail": {
+                                "90869009": {
+                                  "height": 180,
+                                  "width": 320,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/15FF0/production/_90869009_justin_rose_getty1.jpg",
+                                  "altText": "Justin Rose holds his gold medal",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Olympics",
+                            "id": "102502",
+                            "uri": "/sport/olympics",
+                            "urlIdentifier": "/sport/olympics/2016/golf"
+                          },
+                          "summary": "Golf bosses are confident the success of the men's and women's tournaments at Rio has done enough to secure its Olympic status, says Iain Carter.",
+                          "type": "CSP"
+                        }
+                      ],
+                      "semanticGroupName": "More news headlines"
+                    }
+                  ],
+                  "semanticGroupName": "More news"
+                }
+              ],
+              "semanticGroupName": "Top stories"
+            },
+            {
+              "type": "type-a-container-secondary-1",
+              "title": "River",
+              "groups": [
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "Incoming RSS Golf feeds (from external sites)",
+                  "strapline": {
+                    "name": "Around the Web"
+                  },
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/feeds/rss/golfeuropeantour/rss.inc",
+                        "highweb": "/feeds/rss/golfeuropeantour/rss.inc"
+                      },
+                      "options": {},
+                      "title": "European Tour website",
+                      "type": "INCLUDE"
+                    },
+                    {
+                      "links": {
+                        "desktop": "/feeds/rss/golfpgatour/rss.inc",
+                        "highweb": "/feeds/rss/golfpgatour/rss.inc"
+                      },
+                      "options": {},
+                      "title": "PGA Tour website",
+                      "type": "INCLUDE"
+                    },
+                    {
+                      "links": {
+                        "desktop": "/feeds/rss/golfladieseuropeantour/rss.inc",
+                        "highweb": "/feeds/rss/golfladieseuropeantour/rss.inc"
+                      },
+                      "options": {},
+                      "title": "Ladies European Tour website",
+                      "type": "INCLUDE"
+                    },
+                    {
+                      "links": {
+                        "desktop": "/feeds/rss/golf_uslpga/rss.inc",
+                        "highweb": "/feeds/rss/golf_uslpga/rss.inc"
+                      },
+                      "options": {},
+                      "title": "LPGA Tour",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "Incoming RSS feeds (from external site)"
+                },
+                {
+                  "type": "type-a-hyperpuff-1",
+                  "title": "External links hyper",
+                  "strapline": {
+                    "name": "Playing the game"
+                  },
+                  "items": [
+                    {
+                      "assetId": "16822323",
+                      "assetUri": "/sport/golf/16822323",
+                      "firstCreated": "2012-01-31T16:51:25+00:00",
+                      "headline": "Playing the Game external links hyper",
+                      "language": "en-gb",
+                      "lastUpdated": "2012-07-26T11:20:29+00:00",
+                      "options": {
+                        "isBreakingNews": false
+                      },
+                      "overtypedHeadline": "Playing the game hyper",
+                      "type": "HYP"
+                    }
+                  ],
+                  "semanticGroupName": "External links hyper"
+                },
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "BBC Podcasts promo include",
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/inc/specials/sport/hi/sport/downloads/golf/podcast-downloads.inc",
+                        "highweb": "/inc/specials/sport/hi/sport/downloads/golf/podcast-downloads.inc"
+                      },
+                      "options": {},
+                      "title": "BBC Golf podcasts include",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "Downloads include"
+                },
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "BBC RSS feeds promo include",
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/inc/specials/sport/hi/sport/rss/golf/rss.inc",
+                        "highweb": "/inc/specials/sport/hi/sport/rss/golf/rss.inc"
+                      },
+                      "options": {},
+                      "title": "BBC Golf RSS feed",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "RSS feeds include"
+                }
+              ],
+              "semanticGroupName": "River"
+            }
+          ],
+          "semanticGroupName": "STRUCTURAL CONTAINER"
+        },
+        {
+          "type": "type-a-container-tertiary-1",
+          "title": "Events",
+          "groups": [
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Event stats hyper",
+              "items": [
+                {
+                  "assetId": "16809279",
+                  "assetUri": "/sport/golf/16809279",
+                  "firstCreated": "2012-01-31T10:16:48+00:00",
+                  "headline": "Tournament listings hyperpuff",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-09-22T08:36:17+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Event stats hyper"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Radio Commentaries hyper",
+              "items": [
+                {
+                  "assetId": "19181021",
+                  "assetUri": "/sport/golf/19181021",
+                  "firstCreated": "2012-08-08T12:45:29+00:00",
+                  "headline": "BBC golf commentaries hyper",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-09-13T20:08:21+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Radio coverage hyper"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Special promotion hyper 3",
+              "items": [
+                {
+                  "assetId": "21876562",
+                  "assetUri": "/sport/golf/21876562",
+                  "firstCreated": "2013-03-21T09:33:54+00:00",
+                  "headline": "Iain Carter postbox promo",
+                  "language": "en-gb",
+                  "lastUpdated": "2013-03-21T09:33:54+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Special promotion hyper 3"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Special promotion hyper 1",
+              "items": [
+                {
+                  "assetId": "18985233",
+                  "assetUri": "/sport/18985233",
+                  "firstCreated": "2012-07-25T11:35:12+00:00",
+                  "headline": "Sport Promo Module",
+                  "language": "en-gb",
+                  "lastUpdated": "2016-02-15T14:10:19+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Special promotion hyper 1"
+            },
+            {
+              "type": "type-a-data-feed-1",
+              "title": "Stats include 1",
+              "items": [
+                {
+                  "links": {
+                    "desktop": "/shared/app/sportui/things-to-do?",
+                    "highweb": "/shared/app/sportui/things-to-do?"
+                  },
+                  "options": {},
+                  "title": "Things To Do include",
+                  "type": "INCLUDE"
+                }
+              ],
+              "semanticGroupName": "Stats include 1"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Elsewhere on the BBC",
+              "items": [
+                {
+                  "assetId": "16583227",
+                  "assetUri": "/sport/16583227",
+                  "firstCreated": "2012-01-16T15:37:22+00:00",
+                  "headline": "Elsewhere on the BBC - IFS indexes",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-03-26T20:43:50+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Elsewhere on the BBC"
+            }
+          ],
+          "semanticGroupName": "Events"
+        }
+      ],
+      "options": {
+        "allowAdvertising": true
+      },
+      "language": "en-gb",
+      "id": "http://www.bbc.co.uk/asset/b5c53246-3b35-e059-e040-850a02846523/desktop/domestic",
+      "assetUri": "/sport/golf",
+      "platform": "desktop",
+      "audience": "domestic",
+      "assetId": "12153724",
+      "section": {
+        "name": "Golf",
+        "id": "100833",
+        "uri": "/sport/golf",
+        "urlIdentifier": "/sport/golf"
+      },
+      "site": {
+        "name": "BBC Sport",
+        "code": "sport-v6",
+        "urlIdentifier": "/sport",
+        "frontPageUri": "/sport/front-page"
+      },
+      "primaryConceptId": "http://www.bbc.co.uk/things/e6e040e5-c2a2-4a2c-a132-dcc55147d8b5#id",
+      "workerCallingCard": "app134.back.live.telhc.local-55",
+      "iStatsCounterName": "sport.golf.page"
+    }
+  ]
+}

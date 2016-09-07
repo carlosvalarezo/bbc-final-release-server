@@ -1,0 +1,614 @@
+{
+  "results": [
+    {
+      "title": "Tennis",
+      "type": "IDX",
+      "lastUpdated": "2016-08-27T07:53:28+00:00",
+      "firstCreated": "2011-01-10T14:44:04+00:00",
+      "firstPublished": "2011-12-15T10:02:04+00:00",
+      "lastPublished": "2016-08-27T08:17:13+00:00",
+      "changeQueueId": "285169527",
+      "changeQueueTimestamp": "2016-08-27T08:16:59+00:00",
+      "groups": [
+        {
+          "type": "type-a-container-structural-3",
+          "title": "STRUCTURAL CONTAINER",
+          "groups": [
+            {
+              "type": "type-a-container-structural-4",
+              "title": "Top stories",
+              "groups": [
+                {
+                  "type": "type-a-container-primary-4",
+                  "title": "Standard news promotion",
+                  "groups": [
+                    {
+                      "type": "type-a-top-story-1",
+                      "title": "Standard Top Lead",
+                      "maxRelatedLinks": 0,
+                      "items": [
+                        {
+                          "assetId": "37192966",
+                          "assetUri": "/sport/tennis/37192966",
+                          "firstCreated": "2016-08-26T05:41:14+00:00",
+                          "hasShortForm": true,
+                          "headline": "Robson sets up Broady meeting at US Open",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-27T08:15:18+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90945375": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/E00A/production/_90945375_laura_robson_rex.jpg",
+                                  "altText": "Laura Robson",
+                                  "copyrightHolder": "Rex Features"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "prominence": "slideshow",
+                          "section": {
+                            "name": "Tennis",
+                            "id": "100859",
+                            "uri": "/sport/tennis",
+                            "urlIdentifier": "/sport/tennis"
+                          },
+                          "summary": "Laura Robson will play fellow Briton Naomi Broady in the US Open first round after beating Tatjana Maria in the final round of qualifying.",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "Standard top story"
+                    },
+                    {
+                      "type": "type-a-container-story-pair-1",
+                      "title": "Secondary news promotion",
+                      "groups": [
+                        {
+                          "type": "type-a-story-1",
+                          "title": "Story/Live/Feature 2",
+                          "maxRelatedLinks": 0,
+                          "items": [
+                            {
+                              "assetId": "37200727",
+                              "assetUri": "/sport/tennis/37200727",
+                              "firstCreated": "2016-08-26T16:54:40+00:00",
+                              "hasShortForm": true,
+                              "headline": "Murray faces number 82 Rosol at US Open",
+                              "language": "en-gb",
+                              "lastUpdated": "2016-08-27T07:58:29+00:00",
+                              "media": {
+                                "images": {
+                                  "index": {
+                                    "90943359": {
+                                      "height": 576,
+                                      "width": 1024,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/17466/production/_90943359_gettyimages-589523820.jpg",
+                                      "altText": "Andy Murray",
+                                      "copyrightHolder": "Getty Images"
+                                    }
+                                  }
+                                }
+                              },
+                              "options": {
+                                "isBreakingNews": false
+                              },
+                              "section": {
+                                "name": "Tennis",
+                                "id": "100859",
+                                "uri": "/sport/tennis",
+                                "urlIdentifier": "/sport/tennis"
+                              },
+                              "summary": "Olympic champion Andy Murray will play Czech Lukas Rosol in the first round of the US Open, which starts on Monday.",
+                              "type": "STY"
+                            }
+                          ],
+                          "semanticGroupName": "Story 2"
+                        },
+                        {
+                          "type": "type-a-story-1",
+                          "title": "Story/Live/Feature 3",
+                          "maxRelatedLinks": 0,
+                          "items": [
+                            {
+                              "assetId": "37194215",
+                              "assetUri": "/sport/tennis/37194215",
+                              "firstCreated": "2016-08-26T08:26:29+00:00",
+                              "hasShortForm": true,
+                              "headline": "Murray favourite for US Open - Rusedski",
+                              "language": "en-gb",
+                              "lastUpdated": "2016-08-26T08:26:29+00:00",
+                              "media": {
+                                "images": {
+                                  "index": {
+                                    "90935303": {
+                                      "height": 1152,
+                                      "width": 2048,
+                                      "originCode": "cpsprodpb",
+                                      "href": "http://c.files.bbci.co.uk/7691/production/_90935303_murray.jpg",
+                                      "altText": "Andy Murray",
+                                      "copyrightHolder": "Andy Lyons"
+                                    }
+                                  }
+                                }
+                              },
+                              "options": {
+                                "isBreakingNews": false
+                              },
+                              "section": {
+                                "name": "Tennis",
+                                "id": "100859",
+                                "uri": "/sport/tennis",
+                                "urlIdentifier": "/sport/tennis"
+                              },
+                              "summary": "Andy Murray's form should make him favourite for the US Open, according to former British number one Greg Rusedski.",
+                              "type": "STY"
+                            }
+                          ],
+                          "semanticGroupName": "Story 3"
+                        }
+                      ],
+                      "semanticGroupName": "Secondary news promotion"
+                    }
+                  ],
+                  "semanticGroupName": "Standard news promotion"
+                },
+                {
+                  "type": "type-a-container-secondary-1",
+                  "title": "More news",
+                  "groups": [
+                    {
+                      "type": "type-a-headline-list-1",
+                      "title": "Headlines- DON'T CULL DRAWS - IT'S MOB ONLY.",
+                      "items": [
+                        {
+                          "assetId": "37174949",
+                          "assetUri": "/sport/tennis/37174949",
+                          "firstCreated": "2016-08-24T15:40:04+00:00",
+                          "hasShortForm": true,
+                          "headline": "Federer eyes Australian Open for return",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-24T15:40:04+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90912196": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/10E01/production/_90912196_roger_federer_rex.jpg",
+                                  "altText": "Roger Federer",
+                                  "copyrightHolder": "Rex Features"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Tennis",
+                            "id": "100859",
+                            "uri": "/sport/tennis",
+                            "urlIdentifier": "/sport/tennis"
+                          },
+                          "summary": "Roger Federer is aiming to be fit for next year's Australian Open after injury wiped out the last half of his 2016 season.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37170726",
+                          "assetUri": "/sport/tennis/37170726",
+                          "firstCreated": "2016-08-23T18:27:12+00:00",
+                          "hasShortForm": true,
+                          "headline": "Murray and Konta learn US Open seedings",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-23T18:27:12+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90893112": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/5293/production/_90893112_murray.jpg",
+                                  "altText": "Murray Konta",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Tennis",
+                            "id": "100859",
+                            "uri": "/sport/tennis",
+                            "urlIdentifier": "/sport/tennis"
+                          },
+                          "summary": "Andy Murray is seeded second in the men's singles for the US Open, with fellow Briton Johanna Konta a career-high 13th in the women's.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37150965",
+                          "assetUri": "/sport/tennis/37150965",
+                          "firstCreated": "2016-08-21T21:46:52+00:00",
+                          "hasShortForm": true,
+                          "headline": "Murray winning run ends in Cincinnati",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-21T23:31:53+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90870683": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/96CF/production/_90870683_murray5_rex.jpg",
+                                  "altText": "Andy Murray",
+                                  "copyrightHolder": "Rex Features"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": true
+                          },
+                          "section": {
+                            "name": "Tennis",
+                            "id": "100859",
+                            "uri": "/sport/tennis",
+                            "urlIdentifier": "/sport/tennis"
+                          },
+                          "summary": "Olympic champion Andy Murray's career-best winning run ends as Croatia's Marin Cilic beats him in the Cincinnati Masters final.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37150706",
+                          "assetUri": "/sport/tennis/37150706",
+                          "firstCreated": "2016-08-21T19:29:16+00:00",
+                          "hasShortForm": true,
+                          "headline": "Kerber fails to take Williams' top spot",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-21T23:37:13+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90870055": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/D6DF/production/_90870055_kerber1_rex.jpg",
+                                  "altText": "Angelique Kerber",
+                                  "copyrightHolder": "Rex Features"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Tennis",
+                            "id": "100859",
+                            "uri": "/sport/tennis",
+                            "urlIdentifier": "/sport/tennis"
+                          },
+                          "summary": "Angelique Kerber fails to end Serena Williams' 183-week run as world number one, losing the Cincinnati Open final to Karolina Pliskova.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "37101097",
+                          "assetUri": "/sport/tennis/37101097",
+                          "firstCreated": "2016-08-16T17:30:11+00:00",
+                          "hasShortForm": true,
+                          "headline": "Robson & Del Potro get US Open wildcard",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-16T17:30:11+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90811417": {
+                                  "height": 1125,
+                                  "width": 2000,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/116F3/production/_90811417_delpotro_robson_getty.jpg",
+                                  "altText": "Juan Martin Del Potro and Laura Robson",
+                                  "copyrightHolder": "Getty Images"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Tennis",
+                            "id": "100859",
+                            "uri": "/sport/tennis",
+                            "urlIdentifier": "/sport/tennis"
+                          },
+                          "summary": "Olympic finalist Juan Martin del Potro and Britain's Laura Robson get wildcards for the US Open this month.",
+                          "type": "STY"
+                        },
+                        {
+                          "assetId": "36689347",
+                          "assetUri": "/sport/olympics/36689347",
+                          "firstCreated": "2016-08-14T19:51:55+00:00",
+                          "hasShortForm": true,
+                          "headline": "Tearful Murray wins second Olympic gold",
+                          "language": "en-gb",
+                          "lastUpdated": "2016-08-15T08:14:38+00:00",
+                          "media": {
+                            "images": {
+                              "index": {
+                                "90788725": {
+                                  "height": 1152,
+                                  "width": 2048,
+                                  "originCode": "cpsprodpb",
+                                  "href": "http://c.files.bbci.co.uk/CE34/production/_90788725_murray_reuters.jpg",
+                                  "altText": "Andy Murray",
+                                  "copyrightHolder": "Reuters"
+                                }
+                              }
+                            }
+                          },
+                          "options": {
+                            "isBreakingNews": false
+                          },
+                          "section": {
+                            "name": "Olympics",
+                            "id": "102516",
+                            "uri": "/sport/olympics",
+                            "urlIdentifier": "/sport/olympics/2016/tennis"
+                          },
+                          "summary": "Britain's Andy Murray becomes the first tennis player to win two Olympic singles titles by beating Argentina's Juan Martin del Potro.",
+                          "type": "STY"
+                        }
+                      ],
+                      "semanticGroupName": "More news headlines"
+                    }
+                  ],
+                  "semanticGroupName": "More news"
+                }
+              ],
+              "semanticGroupName": "Top stories"
+            },
+            {
+              "type": "type-a-container-secondary-1",
+              "title": "River",
+              "groups": [
+                {
+                  "type": "type-a-quotebox-1",
+                  "title": "Quotebox",
+                  "strapline": {
+                    "name": "Quotebox"
+                  },
+                  "items": [
+                    {
+                      "linkedItem": {
+                        "assetTypeCode": "URL",
+                        "lastUpdated": "2013-05-28T20:48:53+00:00",
+                        "links": {
+                          "desktop": "http://www.bbc.co.uk/sport/0/tennis/22692080",
+                          "highweb": "http://www.bbc.co.uk/sport/0/tennis/22692080"
+                        },
+                        "title": "Link",
+                        "type": "LINK"
+                      },
+                      "options": {},
+                      "quoteSource": "Japanese veteran Kimiko Date-Krumm",
+                      "quoteText": "You need to sometimes drink wine before the match - even before the match - to relax",
+                      "type": "QUO"
+                    }
+                  ],
+                  "semanticGroupName": "Quotebox"
+                },
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "Incoming RSS feeds",
+                  "strapline": {
+                    "name": "Around the Web"
+                  },
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/feeds/rss/tennisatpworldtour/rss.inc",
+                        "highweb": "/feeds/rss/tennisatpworldtour/rss.inc"
+                      },
+                      "options": {},
+                      "title": "ATP",
+                      "type": "INCLUDE"
+                    },
+                    {
+                      "links": {
+                        "desktop": "/feeds/rss/tenniswtatour/rss.inc",
+                        "highweb": "/feeds/rss/tenniswtatour/rss.inc"
+                      },
+                      "options": {},
+                      "title": "WTA",
+                      "type": "INCLUDE"
+                    },
+                    {
+                      "links": {
+                        "desktop": "/feeds/rss/tennislta/rss.inc",
+                        "highweb": "/feeds/rss/tennislta/rss.inc"
+                      },
+                      "options": {},
+                      "title": "LTA",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "Incoming RSS feeds (from external site)"
+                },
+                {
+                  "type": "type-a-data-feed-1",
+                  "title": "BBC RSS feeds include",
+                  "items": [
+                    {
+                      "links": {
+                        "desktop": "/inc/specials/sport/hi/sport/rss/tennis/rss.inc",
+                        "highweb": "/inc/specials/sport/hi/sport/rss/tennis/rss.inc"
+                      },
+                      "options": {},
+                      "title": "tennis rss feeds include",
+                      "type": "INCLUDE"
+                    }
+                  ],
+                  "semanticGroupName": "RSS feeds include"
+                }
+              ],
+              "semanticGroupName": "River"
+            }
+          ],
+          "semanticGroupName": "STRUCTURAL CONTAINER"
+        },
+        {
+          "type": "type-a-container-tertiary-1",
+          "title": "Events",
+          "groups": [
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Tennis Scores, Results, Calendar ",
+              "items": [
+                {
+                  "assetId": "16222510",
+                  "assetUri": "/sport/tennis/16222510",
+                  "firstCreated": "2011-12-16T14:40:56+00:00",
+                  "headline": "Tournament scores hyperpuff",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-09-21T09:12:14+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Radio coverage hyper"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Radio Commentaries hyper",
+              "items": [
+                {
+                  "assetId": "27866310",
+                  "assetUri": "/sport/tennis/27866310",
+                  "firstCreated": "2014-06-16T07:48:36+00:00",
+                  "headline": "BBC Tennis TV and radio commentaries hyper",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-11-20T18:32:41+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Event stats hyper"
+            },
+            {
+              "type": "type-a-data-feed-1",
+              "title": "BBC Coverage include",
+              "items": [
+                {
+                  "links": {
+                    "desktop": "/inc/specials/sport/hi/sport/pal-wrapper/coverage.inc?category=tennis&title=Tennis+Coverage",
+                    "highweb": "/inc/specials/sport/hi/sport/pal-wrapper/coverage.inc?category=tennis&title=Tennis+Coverage"
+                  },
+                  "options": {},
+                  "title": "BBC Tennis coverage on TV & Radio",
+                  "type": "INCLUDE"
+                }
+              ],
+              "semanticGroupName": "Coverage include"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Special promotion hyper 3",
+              "items": [
+                {
+                  "assetId": "29318740",
+                  "assetUri": "/sport/tennis/29318740",
+                  "firstCreated": "2014-09-22T18:52:42+00:00",
+                  "headline": "Serving for Success",
+                  "language": "en-gb",
+                  "lastUpdated": "2014-10-13T20:43:36+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Coming up hyper"
+            },
+            {
+              "type": "type-a-data-feed-1",
+              "title": "Stats include 1",
+              "items": [
+                {
+                  "links": {
+                    "desktop": "/shared/app/sportui/things-to-do?",
+                    "highweb": "/shared/app/sportui/things-to-do?"
+                  },
+                  "options": {},
+                  "title": "Things To Do include",
+                  "type": "INCLUDE"
+                }
+              ],
+              "semanticGroupName": "Stats include 1"
+            },
+            {
+              "type": "type-a-hyperpuff-1",
+              "title": "Elsewhere on the BBC",
+              "items": [
+                {
+                  "assetId": "16583227",
+                  "assetUri": "/sport/16583227",
+                  "firstCreated": "2012-01-16T15:37:22+00:00",
+                  "headline": "Elsewhere on the BBC - IFS indexes",
+                  "language": "en-gb",
+                  "lastUpdated": "2015-03-26T20:43:50+00:00",
+                  "options": {
+                    "isBreakingNews": false
+                  },
+                  "type": "HYP"
+                }
+              ],
+              "semanticGroupName": "Elsewhere on the BBC"
+            }
+          ],
+          "semanticGroupName": "Events"
+        }
+      ],
+      "options": {
+        "allowAdvertising": true
+      },
+      "language": "en-gb",
+      "id": "http://www.bbc.co.uk/asset/b5c53246-3bf6-e059-e040-850a02846523/desktop/domestic",
+      "assetUri": "/sport/tennis",
+      "platform": "desktop",
+      "audience": "domestic",
+      "assetId": "12155230",
+      "section": {
+        "name": "Tennis",
+        "id": "100859",
+        "uri": "/sport/tennis",
+        "urlIdentifier": "/sport/tennis"
+      },
+      "site": {
+        "name": "BBC Sport",
+        "code": "sport-v6",
+        "urlIdentifier": "/sport",
+        "frontPageUri": "/sport/front-page"
+      },
+      "primaryConceptId": "http://www.bbc.co.uk/things/0987d977-e389-964b-bbb0-0390f4c7a899#id",
+      "workerCallingCard": "app144.back.live.telhc.local-61",
+      "iStatsCounterName": "sport.tennis.page"
+    }
+  ]
+}

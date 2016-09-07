@@ -1,0 +1,450 @@
+{
+  "results": [
+    {
+      "title": "BBC Sport - Mamadou Sakho: Liverpool defender will not contest failed drugs test",
+      "summary": "Mamadou Sakho will not challenge the results of his failed drugs test and is not expected to play for Liverpool again this season.",
+      "type": "STY",
+      "lastUpdated": "2016-04-27T18:06:13+00:00",
+      "firstCreated": "2016-04-27T08:46:25+00:00",
+      "firstPublished": "2016-04-27T10:00:41+00:00",
+      "lastPublished": "2016-06-20T12:38:27+00:00",
+      "hasShortForm": true,
+      "changeQueueId": "279562773",
+      "changeQueueTimestamp": "2016-06-20T11:56:00+00:00",
+      "body": "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/55c89b7f-8ad1-d44a-971b-d258002585bf\"><image id=\"89463729\"/><paragraph role=\"introduction\">Mamadou Sakho has decided not to challenge the results of his failed drugs test and is not expected to play for Liverpool again this season.</paragraph><paragraph>Sakho, 26, <!-- CPS Asset ID: 36155970 --><link><caption>tested positive</caption><url platform=\"highweb\" href=\"http://www.bbc.co.uk/sport/football/36120459\"/></link> for what is thought to be a type of fat burner after the Europa League win against Manchester United on 17 March.</paragraph><paragraph>He had until Tuesday to request a test of his B sample, but opted not to.</paragraph><paragraph>The France defender and his club agreed he would remain unavailable while a Uefa investigation was completed.</paragraph><paragraph>Uefa has so far not opened any disciplinary proceedings against Sakho.</paragraph><paragraph>Liverpool cannot comment because the process is confidential.  </paragraph><paragraph>On Saturday, when the story broke, the club said in a statement that Sakho had not been officially suspended but would \"not be available\" for selection until the outcome of the investigation.</paragraph><paragraph>Manager Jurgen Klopp said Liverpool had done what they thought was right.</paragraph><paragraph>He said: \"At this moment, there is really nothing else to say. What they are all doing is collecting information to clear the situation and we have to wait.\"</paragraph><paragraph>Sakho's Liverpool team-mate Kolo Toure was banned for six months in 2011 while at Manchester City after testing positive for a weight-loss drug contained within \"water tablets\" recommended to him by his wife.</paragraph><paragraph>A similar ban for Sakho would rule him out of Euro 2016 in France, which starts on 10 June.</paragraph><paragraph>Sakho, an £18m signing from Paris St-Germain in 2013, has played 34 games for Liverpool this season, including 10 in the Europa League.</paragraph></body>",
+      "shortFormBody": "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/55c89b7f-8ad1-d44a-971b-d258002585bf\"><paragraph>Mamadou Sakho has decided not to challenge the results of his failed drugs test and is not expected to play for Liverpool again this season.</paragraph><paragraph>Sakho, 26, tested positive for what is thought to be a type of fat burner after the Europa League win against Manchester United on 17 March.</paragraph><paragraph>He had until Tuesday to request a test of his B sample, but opted not to.</paragraph><paragraph>The France defender and his club agreed he would remain unavailable while a Uefa investigation was completed.</paragraph></shortFormBody>",
+      "media": {
+        "images": {
+          "body": {
+            "89463025": {
+              "height": 351,
+              "width": 624,
+              "originCode": "cpsprodpb",
+              "href": "http://c.files.bbci.co.uk/CB44/production/_89463025_m_sakho_pa1.jpg",
+              "caption": "Mamadou Sakho is thought to have tested positive for a type of fat burner",
+              "altText": "Mamadou Sakho",
+              "positionHint": "full-width",
+              "copyrightHolder": "PA"
+            },
+            "89463729": {
+              "height": 351,
+              "width": 624,
+              "originCode": "cpsprodpb",
+              "href": "http://c.files.bbci.co.uk/16A40/production/_89463729_m_sakho_afp.jpg",
+              "caption": "Mamadou Sakho is thought to have tested positive for a type of fat burner",
+              "altText": "Mamadou Sakho",
+              "positionHint": "full-width",
+              "copyrightHolder": "AFP"
+            }
+          },
+          "index": {
+            "89463023": {
+              "height": 1152,
+              "width": 2048,
+              "originCode": "cpsprodpb",
+              "href": "http://c.files.bbci.co.uk/7D24/production/_89463023_m_sakho_pa.jpg",
+              "altText": "Mamadou Sakho",
+              "copyrightHolder": "PA"
+            }
+          }
+        }
+      },
+      "relatedGroups": [
+        {
+          "type": "see-alsos",
+          "items": [
+            {
+              "assetId": "36120459",
+              "assetUri": "/sport/football/36120459",
+              "firstCreated": "2016-04-23T12:24:56+00:00",
+              "hasShortForm": true,
+              "headline": "Mamadou Sakho: Liverpool defender investigated over failed drugs test",
+              "language": "en-gb",
+              "lastUpdated": "2016-04-23T13:18:43+00:00",
+              "media": {
+                "images": {
+                  "body": {
+                    "89407252": {
+                      "height": 351,
+                      "width": 624,
+                      "originCode": "cpsprodpb",
+                      "href": "http://c.files.bbci.co.uk/62B6/production/_89407252_gettyimages-502062386.jpg",
+                      "caption": "Mamadou Sakho is in his third season at Liverpool",
+                      "altText": "Mamadou Sakho",
+                      "positionHint": "full-width",
+                      "copyrightHolder": "Getty Images"
+                    }
+                  },
+                  "index": {
+                    "89406128": {
+                      "height": 1152,
+                      "width": 2048,
+                      "originCode": "cpsprodpb",
+                      "href": "http://c.files.bbci.co.uk/140F0/production/_89406128_gettyimages-506962040.jpg",
+                      "altText": "Mamadou Sakho",
+                      "copyrightHolder": "Getty Images"
+                    }
+                  }
+                }
+              },
+              "section": {
+                "name": "Football",
+                "id": "101435",
+                "externalUrl": "/sport/football/teams/liverpool",
+                "urlIdentifier": "/sport/football/premier-league/liverpool"
+              },
+              "shortHeadline": "Liverpool's Sakho fails drugs test",
+              "site": {
+                "name": "BBC Sport",
+                "code": "sport-v6",
+                "urlIdentifier": "/sport",
+                "frontPageUri": "/sport/front-page"
+              },
+              "summary": "Liverpool defender Mamadou Sakho is being investigated by Uefa after failing a drugs test for a reported fat burner.",
+              "title": "BBC Sport - Mamadou Sakho: Liverpool defender investigated over failed drugs test",
+              "type": "STY",
+              "workerCallingCard": "app057.back.live.cwwtf.local-58"
+            },
+            {
+              "assetId": "13629210",
+              "assetUri": "/sport/football/13629210",
+              "firstCreated": "2011-06-02T10:42:50+00:00",
+              "hasShortForm": false,
+              "headline": "Football commentaries",
+              "language": "en-gb",
+              "lastUpdated": "2016-06-20T11:54:43+00:00",
+              "media": {
+                "images": {
+                  "body": {
+                    "58378684": {
+                      "height": 135,
+                      "width": 464,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/58378000/jpg/_58378684_commentaries2-464px-body.jpg",
+                      "altText": "Commentator",
+                      "positionHint": "body-width",
+                      "copyrightHolder": "bbc"
+                    },
+                    "58378691": {
+                      "height": 135,
+                      "width": 464,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/58378000/jpg/_58378691_commentaries3-464px-body.jpg",
+                      "altText": "Commentator",
+                      "positionHint": "body-width",
+                      "copyrightHolder": "bbc"
+                    }
+                  },
+                  "index": {
+                    "73552583": {
+                      "height": 261,
+                      "width": 464,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/73552000/jpg/_73552583_commentarypage.jpg",
+                      "altText": "BBC commentator",
+                      "copyrightHolder": "bbc"
+                    }
+                  }
+                }
+              },
+              "section": {
+                "name": "Football",
+                "id": "100830",
+                "uri": "/sport/football",
+                "urlIdentifier": "/sport/football"
+              },
+              "shortHeadline": "Football commentaries",
+              "site": {
+                "name": "BBC Sport",
+                "code": "sport-v6",
+                "urlIdentifier": "/sport",
+                "frontPageUri": "/sport/front-page"
+              },
+              "summary": "A rundown of all the latest BBC football radio commentaries online.",
+              "title": "BBC Sport - Football commentaries",
+              "type": "STY",
+              "workerCallingCard": "app144.back.live.telhc.local-60"
+            },
+            {
+              "assetTypeCode": "PRO",
+              "avRestriction": "Global",
+              "contentType": "Audio",
+              "firstCreated": "2014-11-03T10:21:35+00:00",
+              "lastUpdated": "2014-11-03T10:21:35+00:00",
+              "links": {
+                "enhancedmobile": "http://m.bbc.co.uk/programmes/p02pwd48",
+                "desktop": "http://www.bbc.co.uk/programmes/p02pwd48",
+                "highweb": "http://www.bbc.co.uk/programmes/p02pwd48",
+                "mobile": "http://m.bbc.co.uk/programmes/p02pwd48"
+              },
+              "title": "In Short: Best of 5 live Sport",
+              "type": "LINK"
+            },
+            {
+              "assetId": "23152583",
+              "assetUri": "/sport/get-inspired/23152583",
+              "firstCreated": "2013-07-02T15:52:07+00:00",
+              "hasShortForm": false,
+              "headline": "Get Inspired: How to get into Football",
+              "language": "en-gb",
+              "lastUpdated": "2014-12-02T18:53:14+00:00",
+              "media": {
+                "images": {
+                  "body": {
+                    "60608520": {
+                      "height": 180,
+                      "width": 320,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/60608000/jpg/_60608520_nigeria1996.jpg",
+                      "altText": "Nigerians footballers celebrating their Olympic win",
+                      "copyrightHolder": "Bongarts"
+                    },
+                    "61488659": {
+                      "height": 180,
+                      "width": 320,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/61488000/jpg/_61488659_promo_compete.jpg",
+                      "altText": "Michael Johnson",
+                      "copyrightHolder": "BBC"
+                    },
+                    "73186303": {
+                      "height": 351,
+                      "width": 624,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/73186000/jpg/_73186303_football_getinspired_624.jpg",
+                      "altText": "Women playing football",
+                      "positionHint": "full-width",
+                      "copyrightHolder": "Getty Images"
+                    },
+                    "75302338": {
+                      "height": 180,
+                      "width": 320,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/75302000/jpg/_75302338_football2.jpg",
+                      "altText": "Gary Lineker",
+                      "copyrightHolder": "Getty Images"
+                    },
+                    "75699424": {
+                      "height": 180,
+                      "width": 320,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/75699000/jpg/_75699424_football4.jpg",
+                      "altText": "feet in mid air about to kick a football",
+                      "copyrightHolder": "Getty Images"
+                    },
+                    "79428070": {
+                      "height": 351,
+                      "width": 624,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/79428000/jpg/_79428070_aspire-to-be-like--football.jpg",
+                      "altText": "Inspire to be like Fara Williams",
+                      "positionHint": "full-width",
+                      "copyrightHolder": "Getty Images"
+                    },
+                    "79433910": {
+                      "height": 180,
+                      "width": 320,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/79433000/jpg/_79433910_52c6574d-10c9-4bdd-98a0-63792759bd29.jpg",
+                      "altText": "Boys playing football",
+                      "copyrightHolder": "Getty Images"
+                    },
+                    "79433911": {
+                      "height": 180,
+                      "width": 320,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/79433000/jpg/_79433911_5aside.jpg",
+                      "altText": "A five-a-side match",
+                      "copyrightHolder": "Getty Images"
+                    },
+                    "84835753": {
+                      "height": 180,
+                      "width": 320,
+                      "originCode": "cpsprodpb",
+                      "href": "http://c.files.bbci.co.uk/8BA9/production/_84835753_futsal.jpg",
+                      "altText": "Futsal",
+                      "copyrightHolder": "Fotolia"
+                    },
+                    "88520147": {
+                      "height": 260,
+                      "width": 624,
+                      "originCode": "cpsprodpb",
+                      "href": "http://c.files.bbci.co.uk/12176/production/_88520147_women_wide_fapc_semis.jpg",
+                      "altText": "Women playing five-a-side football",
+                      "positionHint": "full-width",
+                      "copyrightHolder": "Getty Images"
+                    },
+                    "88520150": {
+                      "height": 260,
+                      "width": 624,
+                      "originCode": "cpsprodpb",
+                      "href": "http://c.files.bbci.co.uk/13EE/production/_88520150_women_wide_fapc_semis2.jpg",
+                      "altText": "Women playing five-a-side football",
+                      "positionHint": "full-width",
+                      "copyrightHolder": "Getty Images"
+                    }
+                  },
+                  "index": {
+                    "76055918": {
+                      "height": 351,
+                      "width": 624,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/76055000/jpg/_76055918_football_getinspired_624.jpg",
+                      "altText": "Women playing football",
+                      "copyrightHolder": "Getty Images"
+                    }
+                  },
+                  "index-thumbnail": {
+                    "73186306": {
+                      "height": 180,
+                      "width": 320,
+                      "originCode": "mcs",
+                      "href": "http://news.bbcimg.co.uk/media/images/73186000/jpg/_73186306_football_getinspired_624.jpg",
+                      "altText": "Women playing football",
+                      "copyrightHolder": "Getty Images"
+                    }
+                  }
+                }
+              },
+              "section": {
+                "name": "Get Inspired",
+                "id": "102115",
+                "uri": "/sport/get-inspired",
+                "urlIdentifier": "/sport/get-inspired"
+              },
+              "shortHeadline": "How to get into Football",
+              "site": {
+                "name": "BBC Sport",
+                "code": "sport-v6",
+                "urlIdentifier": "/sport",
+                "frontPageUri": "/sport/front-page"
+              },
+              "summary": "How to get into football - the most popular sport in the world, with clubs and facilities throughout the UK.",
+              "title": "BBC Sport - Get Inspired: How to get into Football",
+              "type": "STY",
+              "workerCallingCard": "app144.back.live.telhc.local-60"
+            }
+          ]
+        },
+        {
+          "type": "related-urls",
+          "items": [
+            {
+              "assetTypeCode": "URL",
+              "links": {
+                "desktop": "http://news.bbc.co.uk/sport1/hi/england/merseyside/default.stm",
+                "highweb": "http://news.bbc.co.uk/sport1/hi/england/merseyside/default.stm"
+              },
+              "title": "BBC Liverpool News & Sport",
+              "type": "LINK"
+            },
+            {
+              "assetTypeCode": "URL",
+              "links": {
+                "desktop": "http://www.bbc.co.uk/sport/football/premier-league",
+                "highweb": "http://www.bbc.co.uk/sport/football/premier-league"
+              },
+              "title": "BBC Sport Premier League",
+              "type": "LINK"
+            },
+            {
+              "assetTypeCode": "URL",
+              "links": {
+                "desktop": "http://www.liverpoolfc.tv/",
+                "highweb": "http://www.liverpoolfc.tv/"
+              },
+              "title": "Liverpool official site",
+              "type": "LINK"
+            }
+          ]
+        },
+        {
+          "type": "related-hypers",
+          "items": [
+            {
+              "assetId": "35635038",
+              "assetUri": "/sport/football/35635038",
+              "firstCreated": "2016-02-22T18:33:46+00:00",
+              "language": "en-gb",
+              "lastUpdated": "2016-05-26T15:47:33+00:00",
+              "section": {
+                "name": "Football",
+                "id": "100830",
+                "uri": "/sport/football",
+                "urlIdentifier": "/sport/football"
+              },
+              "site": {
+                "name": "BBC Sport",
+                "code": "sport-v6",
+                "urlIdentifier": "/sport",
+                "frontPageUri": "/sport/front-page"
+              },
+              "title": "Football highights hyper",
+              "type": "HYP",
+              "workerCallingCard": "app058.back.live.cwwtf.local-54"
+            },
+            {
+              "assetId": "33151178",
+              "assetUri": "/sport/33151178",
+              "firstCreated": "2015-06-16T12:59:42+00:00",
+              "language": "en-gb",
+              "lastUpdated": "2016-06-29T12:48:36+00:00",
+              "section": {
+                "name": "Sport",
+                "id": "100832",
+                "uri": "/sport/front-page",
+                "urlIdentifier": "/sport/front-page"
+              },
+              "site": {
+                "name": "BBC Sport",
+                "code": "sport-v6",
+                "urlIdentifier": "/sport",
+                "frontPageUri": "/sport/front-page"
+              },
+              "title": "Explore the BBC",
+              "type": "HYP",
+              "workerCallingCard": "app058.back.live.cwwtf.local-60"
+            }
+          ]
+        }
+      ],
+      "options": {
+        "allowRightHandSide": true,
+        "allowRelatedStoriesBox": true,
+        "includeComments": false,
+        "isIgorSeoTagsEnabled": false,
+        "hasNewsTracker": false,
+        "allowAdvertising": true,
+        "hasContentWarning": false,
+        "allowDateStamp": true,
+        "allowHeadline": true,
+        "isKeyContent": false,
+        "allowPrintingSharingLinks": true,
+        "isBreakingNews": false,
+        "suitableForSyndication": true
+      },
+      "language": "en-gb",
+      "id": "http://www.bbc.co.uk/asset/e0c0bbb0-dd21-954c-a8e8-964948c28a74",
+      "assetUri": "/sport/football/36147964",
+      "assetId": "36147964",
+      "headline": "Mamadou Sakho: Liverpool defender will not contest failed drugs test",
+      "shortHeadline": "Sakho will not fight failed drugs test",
+      "section": {
+        "name": "Football",
+        "id": "101435",
+        "externalUrl": "/sport/football/teams/liverpool",
+        "urlIdentifier": "/sport/football/premier-league/liverpool"
+      },
+      "site": {
+        "name": "BBC Sport",
+        "code": "sport-v6",
+        "urlIdentifier": "/sport",
+        "frontPageUri": "/sport/front-page"
+      },
+      "primaryConceptId": "http://www.bbc.co.uk/things/8df31a76-4c22-5b40-9f0d-78b34dfb26fa#id",
+      "workerCallingCard": "app144.back.live.telhc.local-60",
+      "iStatsCounterName": "sport.football.premier_league.liverpool.story.36147964.page"
+    }
+  ]
+}
+
